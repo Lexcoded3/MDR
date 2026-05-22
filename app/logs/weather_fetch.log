@@ -1,0 +1,2 @@
+[2026-03-30 14:59:23] [error] HTTP 401: Invalid API key: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+[2026-03-30 14:59:27] [warn] Using fallback API for: forecast_0.77_34.0261

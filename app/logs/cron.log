@@ -1,0 +1,2120 @@
+[2026-04-21 10:59:17] [INFO] === Cron run started ===
+[2026-04-21 10:59:17] [INFO] Found 0 doses due for new reminders
+[2026-04-21 10:59:18] [INFO] Found 0 pending reminders to send
+[2026-04-21 10:59:18] [ERROR] FATAL: Unknown column 'updated_at' in 'field list'
+[2026-04-21 10:59:18] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:03:04] [INFO] === Cron run started ===
+[2026-04-21 11:03:04] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:03:04] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:03:04] [ERROR] FATAL: Unknown column 'updated_at' in 'field list'
+[2026-04-21 11:03:04] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:03:33] [INFO] === Cron run started ===
+[2026-04-21 11:03:33] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:03:33] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:03:33] [ERROR] FATAL: Unknown column 'updated_at' in 'field list'
+[2026-04-21 11:03:33] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:04:59] [INFO] === Cron run started ===
+[2026-04-21 11:04:59] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:04:59] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:04:59] [ERROR] FATAL: Unknown column 'updated_at' in 'field list'
+[2026-04-21 11:04:59] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:08:43] [INFO] === Cron run started ===
+[2026-04-21 11:08:44] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:08:44] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:08:44] [INFO] Auto-marked 3 doses as missed (no response after 2 hours)
+[2026-04-21 11:08:44] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:14:10] [INFO] === Cron run started ===
+[2026-04-21 11:14:10] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:14:10] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:14:10] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:15:00] [INFO] === Cron run started ===
+[2026-04-21 11:15:00] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:15:00] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:15:00] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:15:04] [INFO] === Cron run started ===
+[2026-04-21 11:15:04] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:15:04] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:15:04] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:16:39] [INFO] === Cron run started ===
+[2026-04-21 11:16:39] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:16:39] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:16:39] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:26:54] [INFO] === Cron run started ===
+[2026-04-21 11:26:54] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:26:54] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:26:54] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-21 11:26:56] [INFO] === Cron run started ===
+[2026-04-21 11:26:56] [INFO] Found 0 doses due for new reminders
+[2026-04-21 11:26:56] [INFO] Found 0 pending reminders to send
+[2026-04-21 11:26:56] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-23 09:51:25] [INFO] === Cron run started ===
+[2026-04-23 09:51:25] [INFO] Found 0 doses due for new reminders
+[2026-04-23 09:51:25] [INFO] Found 0 pending reminders to send
+[2026-04-23 09:51:26] [INFO] Auto-marked 3 doses as missed (no response after 2 hours)
+[2026-04-23 09:51:26] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-23 09:52:02] [INFO] === Cron run started ===
+[2026-04-23 09:52:02] [INFO] Found 0 doses due for new reminders
+[2026-04-23 09:52:02] [INFO] Found 0 pending reminders to send
+[2026-04-23 09:52:02] [INFO] === Cron run finished: 0 sent, 0 failed ===
+
+[2026-04-23 10:02:57] [INFO] --- Cron Start ---
+[2026-04-23 10:02:57] [INFO] --- Cron End ---
+[2026-04-23 10:04:47] [INFO] --- Cron Start ---
+[2026-04-23 10:04:47] [INFO] --- Cron End ---
+[2026-04-23 10:07:46] [INFO] --- Cron Start ---
+[2026-04-23 10:07:46] [INFO] --- Cron End ---
+[2026-04-23 10:24:49] [INFO] --- Cron Start ---
+[2026-04-23 10:24:50] [INFO] --- Cron End ---
+[2026-04-24 12:42:33] [INFO] --- Cron Start ---
+[2026-04-24 12:42:34] [INFO] --- Cron End ---
+[2026-04-24 12:48:46] [INFO] --- Cron Start ---
+[2026-04-24 12:48:46] [INFO] --- Cron End ---
+[2026-04-24 12:51:55] [INFO] --- Cron Start ---
+[2026-04-24 12:51:55] [INFO] --- Cron End ---
+[2026-04-24 12:53:34] [INFO] --- Cron Start ---
+[2026-04-24 12:53:35] [INFO] Sent via AT to 256700765387
+[2026-04-24 12:53:35] [INFO] --- Cron End ---
+[2026-04-24 12:56:24] [INFO] --- Cron Start ---
+[2026-04-24 12:56:24] [INFO] --- Cron End ---
+[2026-04-24 12:56:26] [INFO] --- Cron Start ---
+[2026-04-24 12:56:26] [INFO] --- Cron End ---
+[2026-04-24 13:15:41] [INFO] --- Cron Start ---
+[2026-04-24 13:15:43] [INFO] Sent via AT to 256700765387
+[2026-04-24 13:15:43] [INFO] --- Cron End ---
+[2026-04-24 13:26:38] [INFO] --- Cron Start ---
+[2026-04-24 13:26:38] [INFO] --- Cron End ---
+[2026-04-24 13:31:34] [INFO] --- Cron Start ---
+[2026-04-24 13:31:34] [INFO] --- Cron End ---
+[2026-04-24 13:36:36] [INFO] --- Cron Start ---
+[2026-04-24 13:36:36] [INFO] --- Cron End ---
+[2026-04-24 13:41:34] [INFO] --- Cron Start ---
+[2026-04-24 13:41:34] [INFO] --- Cron End ---
+[2026-04-24 13:46:34] [INFO] --- Cron Start ---
+[2026-04-24 13:46:34] [INFO] --- Cron End ---
+[2026-04-24 14:12:17] [INFO] --- Cron Start ---
+[2026-04-24 14:12:17] [INFO] --- Cron End ---
+[2026-04-24 14:16:35] [INFO] --- Cron Start ---
+[2026-04-24 14:16:35] [INFO] --- Cron End ---
+[2026-04-24 14:21:36] [INFO] --- Cron Start ---
+[2026-04-24 14:21:36] [INFO] --- Cron End ---
+[2026-04-24 14:26:35] [INFO] --- Cron Start ---
+[2026-04-24 14:26:35] [INFO] --- Cron End ---
+[2026-04-24 14:31:35] [INFO] --- Cron Start ---
+[2026-04-24 14:31:35] [INFO] --- Cron End ---
+[2026-04-24 14:36:35] [INFO] --- Cron Start ---
+[2026-04-24 14:36:35] [INFO] --- Cron End ---
+[2026-04-24 14:41:35] [INFO] --- Cron Start ---
+[2026-04-24 14:41:35] [INFO] --- Cron End ---
+[2026-04-24 14:46:35] [INFO] --- Cron Start ---
+[2026-04-24 14:46:35] [INFO] --- Cron End ---
+[2026-04-25 10:31:58] [INFO] --- Cron Start ---
+[2026-04-25 10:31:59] [INFO] --- Cron End ---
+[2026-04-25 10:36:36] [INFO] --- Cron Start ---
+[2026-04-25 10:36:36] [INFO] --- Cron End ---
+[2026-04-25 10:46:04] [INFO] --- Cron Start ---
+[2026-04-25 10:46:05] [INFO] --- Cron End ---
+[2026-04-25 10:53:02] [INFO] --- Cron Start ---
+[2026-04-25 10:53:06] [INFO] --- Cron End ---
+[2026-04-25 11:03:12] [INFO] --- Cron Start ---
+[2026-04-25 11:03:13] [INFO] --- Cron End ---
+[2026-04-25 11:06:36] [INFO] --- Cron Start ---
+[2026-04-25 11:06:37] [INFO] --- Cron End ---
+[2026-04-25 11:11:34] [INFO] --- Cron Start ---
+[2026-04-25 11:11:34] [INFO] --- Cron End ---
+[2026-04-25 11:16:34] [INFO] --- Cron Start ---
+[2026-04-25 11:16:34] [INFO] --- Cron End ---
+[2026-04-25 11:21:35] [INFO] --- Cron Start ---
+[2026-04-25 11:21:35] [INFO] --- Cron End ---
+[2026-04-25 11:26:35] [INFO] --- Cron Start ---
+[2026-04-25 11:26:35] [INFO] --- Cron End ---
+[2026-04-25 11:31:36] [INFO] --- Cron Start ---
+[2026-04-25 11:31:36] [INFO] --- Cron End ---
+[2026-04-25 11:36:38] [INFO] --- Cron Start ---
+[2026-04-25 11:36:38] [INFO] --- Cron End ---
+[2026-04-25 11:41:35] [INFO] --- Cron Start ---
+[2026-04-25 11:41:35] [INFO] --- Cron End ---
+[2026-04-25 11:46:35] [INFO] --- Cron Start ---
+[2026-04-25 11:46:35] [INFO] --- Cron End ---
+[2026-04-25 11:51:34] [INFO] --- Cron Start ---
+[2026-04-25 11:51:34] [INFO] --- Cron End ---
+[2026-04-25 11:56:35] [INFO] --- Cron Start ---
+[2026-04-25 11:56:35] [INFO] --- Cron End ---
+[2026-04-25 12:01:34] [INFO] --- Cron Start ---
+[2026-04-25 12:01:34] [INFO] --- Cron End ---
+[2026-04-25 12:06:36] [INFO] --- Cron Start ---
+[2026-04-25 12:06:36] [INFO] --- Cron End ---
+[2026-04-25 12:11:34] [INFO] --- Cron Start ---
+[2026-04-25 12:11:34] [INFO] --- Cron End ---
+[2026-04-25 12:16:34] [INFO] --- Cron Start ---
+[2026-04-25 12:16:34] [INFO] --- Cron End ---
+[2026-04-25 12:21:42] [INFO] --- Cron Start ---
+[2026-04-25 12:21:42] [INFO] --- Cron End ---
+[2026-04-25 12:26:35] [INFO] --- Cron Start ---
+[2026-04-25 12:26:35] [INFO] --- Cron End ---
+[2026-04-25 12:31:34] [INFO] --- Cron Start ---
+[2026-04-25 12:31:34] [INFO] --- Cron End ---
+[2026-04-25 12:36:35] [INFO] --- Cron Start ---
+[2026-04-25 12:36:35] [INFO] --- Cron End ---
+[2026-04-25 12:41:36] [INFO] --- Cron Start ---
+[2026-04-25 12:41:36] [INFO] --- Cron End ---
+[2026-04-25 12:46:36] [INFO] --- Cron Start ---
+[2026-04-25 12:46:36] [INFO] --- Cron End ---
+[2026-04-25 12:51:46] [INFO] --- Cron Start ---
+[2026-04-25 12:51:47] [INFO] --- Cron End ---
+[2026-04-25 12:56:35] [INFO] --- Cron Start ---
+[2026-04-25 12:56:35] [INFO] --- Cron End ---
+[2026-04-25 13:01:35] [INFO] --- Cron Start ---
+[2026-04-25 13:01:35] [INFO] --- Cron End ---
+[2026-04-25 13:06:35] [INFO] --- Cron Start ---
+[2026-04-25 13:06:35] [INFO] --- Cron End ---
+[2026-04-25 13:11:37] [INFO] --- Cron Start ---
+[2026-04-25 13:11:37] [INFO] --- Cron End ---
+[2026-04-25 13:16:37] [INFO] --- Cron Start ---
+[2026-04-25 13:16:37] [INFO] --- Cron End ---
+[2026-04-25 13:21:38] [INFO] --- Cron Start ---
+[2026-04-25 13:21:38] [INFO] --- Cron End ---
+[2026-04-25 13:27:46] [INFO] --- Cron Start ---
+[2026-04-25 13:27:46] [INFO] --- Cron End ---
+[2026-04-25 13:31:40] [INFO] --- Cron Start ---
+[2026-04-25 13:31:41] [INFO] --- Cron End ---
+[2026-04-25 13:36:37] [INFO] --- Cron Start ---
+[2026-04-25 13:36:38] [INFO] --- Cron End ---
+[2026-04-25 13:41:37] [INFO] --- Cron Start ---
+[2026-04-25 13:41:37] [INFO] --- Cron End ---
+[2026-04-25 13:46:40] [INFO] --- Cron Start ---
+[2026-04-25 13:46:40] [INFO] --- Cron End ---
+[2026-04-25 13:51:37] [INFO] --- Cron Start ---
+[2026-04-25 13:51:37] [INFO] --- Cron End ---
+[2026-04-25 13:56:47] [INFO] --- Cron Start ---
+[2026-04-25 13:56:47] [INFO] --- Cron End ---
+[2026-04-25 14:01:43] [INFO] --- Cron Start ---
+[2026-04-25 14:01:48] [INFO] --- Cron End ---
+[2026-04-25 14:06:48] [INFO] --- Cron Start ---
+[2026-04-25 14:06:48] [INFO] --- Cron End ---
+[2026-04-25 14:11:47] [INFO] --- Cron Start ---
+[2026-04-25 14:11:47] [INFO] --- Cron End ---
+[2026-04-25 14:16:44] [INFO] --- Cron Start ---
+[2026-04-25 14:16:44] [INFO] --- Cron End ---
+[2026-04-25 14:21:40] [INFO] --- Cron Start ---
+[2026-04-25 14:21:40] [INFO] --- Cron End ---
+[2026-04-25 14:26:38] [INFO] --- Cron Start ---
+[2026-04-25 14:26:38] [INFO] --- Cron End ---
+[2026-04-25 14:31:41] [INFO] --- Cron Start ---
+[2026-04-25 14:31:41] [INFO] --- Cron End ---
+[2026-04-25 14:36:46] [INFO] --- Cron Start ---
+[2026-04-25 14:36:46] [INFO] --- Cron End ---
+[2026-04-25 14:41:52] [INFO] --- Cron Start ---
+[2026-04-25 14:41:52] [INFO] --- Cron End ---
+[2026-04-25 14:46:37] [INFO] --- Cron Start ---
+[2026-04-25 14:46:37] [INFO] --- Cron End ---
+[2026-04-25 14:51:41] [INFO] --- Cron Start ---
+[2026-04-25 14:51:41] [INFO] --- Cron End ---
+[2026-04-25 14:56:49] [INFO] --- Cron Start ---
+[2026-04-25 14:56:49] [INFO] --- Cron End ---
+[2026-04-25 15:01:37] [INFO] --- Cron Start ---
+[2026-04-25 15:01:37] [INFO] --- Cron End ---
+[2026-04-25 15:07:03] [INFO] --- Cron Start ---
+[2026-04-25 15:07:03] [INFO] --- Cron End ---
+[2026-04-25 15:11:38] [INFO] --- Cron Start ---
+[2026-04-25 15:11:38] [INFO] --- Cron End ---
+[2026-04-25 15:16:35] [INFO] --- Cron Start ---
+[2026-04-25 15:16:35] [INFO] --- Cron End ---
+[2026-04-25 15:21:41] [INFO] --- Cron Start ---
+[2026-04-25 15:21:41] [INFO] --- Cron End ---
+[2026-04-25 15:26:38] [INFO] --- Cron Start ---
+[2026-04-25 15:26:38] [INFO] --- Cron End ---
+[2026-04-25 15:31:42] [INFO] --- Cron Start ---
+[2026-04-25 15:31:42] [INFO] --- Cron End ---
+[2026-04-25 15:36:39] [INFO] --- Cron Start ---
+[2026-04-25 15:36:39] [INFO] --- Cron End ---
+[2026-04-25 15:42:11] [INFO] --- Cron Start ---
+[2026-04-25 15:42:11] [INFO] --- Cron End ---
+[2026-04-25 15:49:20] [INFO] --- Cron Start ---
+[2026-04-25 15:49:20] [INFO] --- Cron End ---
+[2026-04-25 15:51:42] [INFO] --- Cron Start ---
+[2026-04-25 15:51:42] [INFO] --- Cron End ---
+[2026-04-25 15:56:44] [INFO] --- Cron Start ---
+[2026-04-25 15:56:44] [INFO] --- Cron End ---
+[2026-04-25 16:01:38] [INFO] --- Cron Start ---
+[2026-04-25 16:01:38] [INFO] --- Cron End ---
+[2026-04-25 16:06:37] [INFO] --- Cron Start ---
+[2026-04-25 16:06:37] [INFO] --- Cron End ---
+[2026-04-25 16:24:03] [INFO] --- Cron Start ---
+[2026-04-25 16:24:03] [INFO] --- Cron End ---
+[2026-04-25 16:26:37] [INFO] --- Cron Start ---
+[2026-04-25 16:26:37] [INFO] --- Cron End ---
+[2026-04-25 16:31:35] [INFO] --- Cron Start ---
+[2026-04-25 16:31:35] [INFO] --- Cron End ---
+[2026-04-25 16:36:35] [INFO] --- Cron Start ---
+[2026-04-25 16:36:35] [INFO] --- Cron End ---
+[2026-04-25 16:41:38] [INFO] --- Cron Start ---
+[2026-04-25 16:41:38] [INFO] --- Cron End ---
+[2026-04-25 16:46:37] [INFO] --- Cron Start ---
+[2026-04-25 16:46:37] [INFO] --- Cron End ---
+[2026-04-25 16:51:36] [INFO] --- Cron Start ---
+[2026-04-25 16:51:36] [INFO] --- Cron End ---
+[2026-04-25 16:56:35] [INFO] --- Cron Start ---
+[2026-04-25 16:56:35] [INFO] --- Cron End ---
+[2026-04-25 17:01:34] [INFO] --- Cron Start ---
+[2026-04-25 17:01:34] [INFO] --- Cron End ---
+[2026-04-25 17:06:35] [INFO] --- Cron Start ---
+[2026-04-25 17:06:35] [INFO] --- Cron End ---
+[2026-04-25 17:11:35] [INFO] --- Cron Start ---
+[2026-04-25 17:11:35] [INFO] --- Cron End ---
+[2026-04-25 17:16:34] [INFO] --- Cron Start ---
+[2026-04-25 17:16:34] [INFO] --- Cron End ---
+[2026-04-25 17:21:34] [INFO] --- Cron Start ---
+[2026-04-25 17:21:34] [INFO] --- Cron End ---
+[2026-04-25 17:26:37] [INFO] --- Cron Start ---
+[2026-04-25 17:26:37] [INFO] --- Cron End ---
+[2026-04-25 17:31:44] [INFO] --- Cron Start ---
+[2026-04-25 17:31:44] [INFO] --- Cron End ---
+[2026-04-25 17:36:38] [INFO] --- Cron Start ---
+[2026-04-25 17:36:38] [INFO] --- Cron End ---
+[2026-04-25 17:41:39] [INFO] --- Cron Start ---
+[2026-04-25 17:41:39] [INFO] --- Cron End ---
+[2026-04-25 17:46:38] [INFO] --- Cron Start ---
+[2026-04-25 17:46:38] [INFO] --- Cron End ---
+[2026-04-26 14:18:34] [INFO] --- Cron Start ---
+[2026-04-26 14:18:35] [INFO] --- Cron End ---
+[2026-04-26 14:25:49] [INFO] --- Cron Start ---
+[2026-04-26 14:25:49] [INFO] --- Cron End ---
+[2026-04-26 14:26:55] [INFO] --- Cron Start ---
+[2026-04-26 14:26:55] [INFO] --- Cron End ---
+[2026-04-26 14:31:51] [INFO] --- Cron Start ---
+[2026-04-26 14:31:51] [INFO] --- Cron End ---
+[2026-04-26 14:36:34] [INFO] --- Cron Start ---
+[2026-04-26 14:36:34] [INFO] --- Cron End ---
+[2026-04-26 14:41:34] [INFO] --- Cron Start ---
+[2026-04-26 14:41:34] [INFO] --- Cron End ---
+[2026-04-26 14:46:35] [INFO] --- Cron Start ---
+[2026-04-26 14:46:35] [INFO] --- Cron End ---
+[2026-04-26 14:51:34] [INFO] --- Cron Start ---
+[2026-04-26 14:51:34] [INFO] --- Cron End ---
+[2026-04-26 14:56:35] [INFO] --- Cron Start ---
+[2026-04-26 14:56:35] [INFO] --- Cron End ---
+[2026-04-26 15:01:34] [INFO] --- Cron Start ---
+[2026-04-26 15:01:35] [INFO] --- Cron End ---
+[2026-04-26 15:06:35] [INFO] --- Cron Start ---
+[2026-04-26 15:06:35] [INFO] --- Cron End ---
+[2026-04-26 15:11:34] [INFO] --- Cron Start ---
+[2026-04-26 15:11:34] [INFO] --- Cron End ---
+[2026-04-26 15:16:36] [INFO] --- Cron Start ---
+[2026-04-26 15:16:36] [INFO] --- Cron End ---
+[2026-04-26 15:21:42] [INFO] --- Cron Start ---
+[2026-04-26 15:21:42] [INFO] --- Cron End ---
+[2026-04-26 15:26:35] [INFO] --- Cron Start ---
+[2026-04-26 15:26:35] [INFO] --- Cron End ---
+[2026-04-26 15:31:38] [INFO] --- Cron Start ---
+[2026-04-26 15:31:38] [INFO] --- Cron End ---
+[2026-04-26 15:36:34] [INFO] --- Cron Start ---
+[2026-04-26 15:36:34] [INFO] --- Cron End ---
+[2026-04-26 15:41:38] [INFO] --- Cron Start ---
+[2026-04-26 15:41:38] [INFO] --- Cron End ---
+[2026-04-26 15:46:34] [INFO] --- Cron Start ---
+[2026-04-26 15:46:34] [INFO] --- Cron End ---
+[2026-04-26 15:51:34] [INFO] --- Cron Start ---
+[2026-04-26 15:51:34] [INFO] --- Cron End ---
+[2026-04-26 15:56:46] [INFO] --- Cron Start ---
+[2026-04-26 15:56:46] [INFO] --- Cron End ---
+[2026-04-26 16:01:43] [INFO] --- Cron Start ---
+[2026-04-26 16:01:43] [INFO] --- Cron End ---
+[2026-04-26 16:06:40] [INFO] --- Cron Start ---
+[2026-04-26 16:06:40] [INFO] --- Cron End ---
+[2026-04-26 16:11:34] [INFO] --- Cron Start ---
+[2026-04-26 16:11:34] [INFO] --- Cron End ---
+[2026-04-26 16:16:35] [INFO] --- Cron Start ---
+[2026-04-26 16:16:35] [INFO] --- Cron End ---
+[2026-04-26 16:21:35] [INFO] --- Cron Start ---
+[2026-04-26 16:21:35] [INFO] --- Cron End ---
+[2026-04-26 16:26:37] [INFO] --- Cron Start ---
+[2026-04-26 16:26:37] [INFO] --- Cron End ---
+[2026-04-26 16:31:35] [INFO] --- Cron Start ---
+[2026-04-26 16:31:35] [INFO] --- Cron End ---
+[2026-04-26 16:36:35] [INFO] --- Cron Start ---
+[2026-04-26 16:36:35] [INFO] --- Cron End ---
+[2026-04-26 16:41:34] [INFO] --- Cron Start ---
+[2026-04-26 16:41:34] [INFO] --- Cron End ---
+[2026-04-26 16:46:38] [INFO] --- Cron Start ---
+[2026-04-26 16:46:38] [INFO] --- Cron End ---
+[2026-04-26 16:51:35] [INFO] --- Cron Start ---
+[2026-04-26 16:51:35] [INFO] --- Cron End ---
+[2026-04-26 16:56:56] [INFO] --- Cron Start ---
+[2026-04-26 16:56:56] [INFO] --- Cron End ---
+[2026-04-26 17:01:37] [INFO] --- Cron Start ---
+[2026-04-26 17:01:38] [INFO] --- Cron End ---
+[2026-04-26 17:06:34] [INFO] --- Cron Start ---
+[2026-04-26 17:06:34] [INFO] --- Cron End ---
+[2026-04-26 17:11:35] [INFO] --- Cron Start ---
+[2026-04-26 17:11:35] [INFO] --- Cron End ---
+[2026-04-26 17:16:51] [INFO] --- Cron Start ---
+[2026-04-26 17:16:51] [INFO] --- Cron End ---
+[2026-04-26 17:24:08] [INFO] --- Cron Start ---
+[2026-04-26 17:24:08] [INFO] --- Cron End ---
+[2026-04-26 17:26:38] [INFO] --- Cron Start ---
+[2026-04-26 17:26:38] [INFO] --- Cron End ---
+[2026-04-26 17:34:03] [INFO] --- Cron Start ---
+[2026-04-26 17:34:03] [INFO] --- Cron End ---
+[2026-04-26 17:36:42] [INFO] --- Cron Start ---
+[2026-04-26 17:36:42] [INFO] --- Cron End ---
+[2026-04-26 17:41:39] [INFO] --- Cron Start ---
+[2026-04-26 17:41:39] [INFO] --- Cron End ---
+[2026-04-26 17:46:42] [INFO] --- Cron Start ---
+[2026-04-26 17:46:42] [INFO] --- Cron End ---
+[2026-04-26 17:51:36] [INFO] --- Cron Start ---
+[2026-04-26 17:51:36] [INFO] --- Cron End ---
+[2026-04-26 17:56:34] [INFO] --- Cron Start ---
+[2026-04-26 17:56:34] [INFO] --- Cron End ---
+[2026-04-26 18:01:36] [INFO] --- Cron Start ---
+[2026-04-26 18:01:36] [INFO] --- Cron End ---
+[2026-04-26 18:13:07] [INFO] --- Cron Start ---
+[2026-04-26 18:13:07] [INFO] --- Cron End ---
+[2026-04-26 18:19:38] [INFO] --- Cron Start ---
+[2026-04-26 18:19:38] [INFO] --- Cron End ---
+[2026-04-26 18:21:45] [INFO] --- Cron Start ---
+[2026-04-26 18:21:45] [INFO] --- Cron End ---
+[2026-04-27 08:04:25] [INFO] --- Cron Start ---
+[2026-04-27 08:04:25] [INFO] --- Cron End ---
+[2026-04-27 08:08:10] [INFO] --- Cron Start ---
+[2026-04-27 08:08:10] [INFO] --- Cron End ---
+[2026-04-27 08:11:40] [INFO] --- Cron Start ---
+[2026-04-27 08:11:40] [INFO] --- Cron End ---
+[2026-04-27 08:16:48] [INFO] --- Cron Start ---
+[2026-04-27 08:16:48] [INFO] --- Cron End ---
+[2026-04-27 08:21:39] [INFO] --- Cron Start ---
+[2026-04-27 08:21:39] [INFO] --- Cron End ---
+[2026-04-27 08:26:49] [INFO] --- Cron Start ---
+[2026-04-27 08:26:49] [INFO] --- Cron End ---
+[2026-04-27 08:31:34] [INFO] --- Cron Start ---
+[2026-04-27 08:31:34] [INFO] --- Cron End ---
+[2026-04-27 08:36:41] [INFO] --- Cron Start ---
+[2026-04-27 08:36:41] [INFO] --- Cron End ---
+[2026-04-27 13:08:40] [INFO] --- Cron Start ---
+[2026-04-27 13:08:40] [INFO] --- Cron End ---
+[2026-04-27 13:11:41] [INFO] --- Cron Start ---
+[2026-04-27 13:11:42] [INFO] --- Cron End ---
+[2026-04-27 13:16:39] [INFO] --- Cron Start ---
+[2026-04-27 13:16:39] [INFO] --- Cron End ---
+[2026-04-27 13:21:37] [INFO] --- Cron Start ---
+[2026-04-27 13:21:37] [INFO] --- Cron End ---
+[2026-04-27 13:26:39] [INFO] --- Cron Start ---
+[2026-04-27 13:26:39] [INFO] --- Cron End ---
+[2026-04-27 13:31:37] [INFO] --- Cron Start ---
+[2026-04-27 13:31:37] [INFO] --- Cron End ---
+[2026-04-27 13:36:35] [INFO] --- Cron Start ---
+[2026-04-27 13:36:35] [INFO] --- Cron End ---
+[2026-04-27 13:41:48] [INFO] --- Cron Start ---
+[2026-04-27 13:41:48] [INFO] --- Cron End ---
+[2026-04-27 13:46:38] [INFO] --- Cron Start ---
+[2026-04-27 13:46:38] [INFO] --- Cron End ---
+[2026-04-27 13:51:35] [INFO] --- Cron Start ---
+[2026-04-27 13:51:36] [INFO] --- Cron End ---
+[2026-04-27 13:56:38] [INFO] --- Cron Start ---
+[2026-04-27 13:56:38] [INFO] --- Cron End ---
+[2026-04-27 14:01:41] [INFO] --- Cron Start ---
+[2026-04-27 14:01:41] [INFO] --- Cron End ---
+[2026-04-27 14:06:37] [INFO] --- Cron Start ---
+[2026-04-27 14:06:37] [INFO] --- Cron End ---
+[2026-04-27 14:11:40] [INFO] --- Cron Start ---
+[2026-04-27 14:11:40] [INFO] --- Cron End ---
+[2026-04-27 14:16:39] [INFO] --- Cron Start ---
+[2026-04-27 14:16:39] [INFO] --- Cron End ---
+[2026-04-27 14:21:58] [INFO] --- Cron Start ---
+[2026-04-27 14:21:58] [INFO] --- Cron End ---
+[2026-04-27 14:26:34] [INFO] --- Cron Start ---
+[2026-04-27 14:26:34] [INFO] --- Cron End ---
+[2026-04-27 14:52:32] [INFO] --- Cron Start ---
+[2026-04-27 14:52:32] [INFO] --- Cron End ---
+[2026-04-27 15:07:12] [INFO] --- Cron Start ---
+[2026-04-27 15:07:12] [INFO] --- Cron End ---
+[2026-04-27 15:11:38] [INFO] --- Cron Start ---
+[2026-04-27 15:11:38] [INFO] --- Cron End ---
+[2026-04-27 15:17:11] [INFO] --- Cron Start ---
+[2026-04-27 15:17:11] [INFO] --- Cron End ---
+[2026-04-27 15:21:43] [INFO] --- Cron Start ---
+[2026-04-27 15:21:43] [INFO] --- Cron End ---
+[2026-04-27 15:26:35] [INFO] --- Cron Start ---
+[2026-04-27 15:26:35] [INFO] --- Cron End ---
+[2026-04-27 15:31:53] [INFO] --- Cron Start ---
+[2026-04-27 15:31:53] [INFO] --- Cron End ---
+[2026-04-27 15:36:36] [INFO] --- Cron Start ---
+[2026-04-27 15:36:36] [INFO] --- Cron End ---
+[2026-04-27 15:41:40] [INFO] --- Cron Start ---
+[2026-04-27 15:41:40] [INFO] --- Cron End ---
+[2026-04-27 15:46:37] [INFO] --- Cron Start ---
+[2026-04-27 15:46:37] [INFO] --- Cron End ---
+[2026-04-27 15:51:38] [INFO] --- Cron Start ---
+[2026-04-27 15:51:38] [INFO] --- Cron End ---
+[2026-04-28 05:26:45] [INFO] --- Cron Start ---
+[2026-04-28 05:26:46] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:26:46] [INFO] --- Cron End ---
+[2026-04-28 05:33:27] [INFO] --- Cron Start ---
+[2026-04-28 05:33:27] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:33:27] [INFO] --- Cron End ---
+[2026-04-28 05:37:24] [INFO] --- Cron Start ---
+[2026-04-28 05:37:24] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:37:24] [INFO] --- Cron End ---
+[2026-04-28 05:41:45] [INFO] --- Cron Start ---
+[2026-04-28 05:41:45] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:41:45] [INFO] --- Cron End ---
+[2026-04-28 05:49:35] [INFO] --- Cron Start ---
+[2026-04-28 05:49:35] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:49:35] [INFO] --- Cron End ---
+[2026-04-28 05:52:12] [INFO] --- Cron Start ---
+[2026-04-28 05:52:12] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:52:12] [INFO] --- Cron End ---
+[2026-04-28 05:56:40] [INFO] --- Cron Start ---
+[2026-04-28 05:56:40] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-28 05:56:40] [INFO] --- Cron End ---
+[2026-04-28 06:01:37] [INFO] --- Cron Start ---
+[2026-04-28 06:01:37] [INFO] --- Cron End ---
+[2026-04-28 06:06:43] [INFO] --- Cron Start ---
+[2026-04-28 06:06:43] [INFO] --- Cron End ---
+[2026-04-28 06:11:38] [INFO] --- Cron Start ---
+[2026-04-28 06:11:38] [INFO] --- Cron End ---
+[2026-04-28 06:16:47] [INFO] --- Cron Start ---
+[2026-04-28 06:16:47] [INFO] --- Cron End ---
+[2026-04-28 06:21:50] [INFO] --- Cron Start ---
+[2026-04-28 06:21:50] [INFO] --- Cron End ---
+[2026-04-28 06:26:37] [INFO] --- Cron Start ---
+[2026-04-28 06:26:37] [INFO] --- Cron End ---
+[2026-04-28 06:31:35] [INFO] --- Cron Start ---
+[2026-04-28 06:31:36] [INFO] --- Cron End ---
+[2026-04-28 06:36:38] [INFO] --- Cron Start ---
+[2026-04-28 06:36:38] [INFO] --- Cron End ---
+[2026-04-28 06:41:43] [INFO] --- Cron Start ---
+[2026-04-28 06:41:43] [INFO] --- Cron End ---
+[2026-04-28 06:46:39] [INFO] --- Cron Start ---
+[2026-04-28 06:46:39] [INFO] --- Cron End ---
+[2026-04-28 06:51:37] [INFO] --- Cron Start ---
+[2026-04-28 06:51:37] [INFO] --- Cron End ---
+[2026-04-28 06:56:34] [INFO] --- Cron Start ---
+[2026-04-28 06:56:34] [INFO] --- Cron End ---
+[2026-04-28 07:01:34] [INFO] --- Cron Start ---
+[2026-04-28 07:01:34] [INFO] --- Cron End ---
+[2026-04-28 07:06:35] [INFO] --- Cron Start ---
+[2026-04-28 07:06:35] [INFO] --- Cron End ---
+[2026-04-28 07:11:37] [INFO] --- Cron Start ---
+[2026-04-28 07:11:37] [INFO] --- Cron End ---
+[2026-04-28 07:16:40] [INFO] --- Cron Start ---
+[2026-04-28 07:16:40] [INFO] --- Cron End ---
+[2026-04-28 07:21:46] [INFO] --- Cron Start ---
+[2026-04-28 07:21:46] [INFO] --- Cron End ---
+[2026-04-28 07:26:43] [INFO] --- Cron Start ---
+[2026-04-28 07:26:43] [INFO] --- Cron End ---
+[2026-04-28 07:31:39] [INFO] --- Cron Start ---
+[2026-04-28 07:31:39] [INFO] --- Cron End ---
+[2026-04-28 07:36:44] [INFO] --- Cron Start ---
+[2026-04-28 07:36:44] [INFO] --- Cron End ---
+[2026-04-28 07:41:36] [INFO] --- Cron Start ---
+[2026-04-28 07:41:36] [INFO] --- Cron End ---
+[2026-04-28 07:46:41] [INFO] --- Cron Start ---
+[2026-04-28 07:46:41] [INFO] --- Cron End ---
+[2026-04-28 07:51:38] [INFO] --- Cron Start ---
+[2026-04-28 07:51:38] [INFO] --- Cron End ---
+[2026-04-28 07:56:38] [INFO] --- Cron Start ---
+[2026-04-28 07:56:38] [INFO] --- Cron End ---
+[2026-04-28 08:01:38] [INFO] --- Cron Start ---
+[2026-04-28 08:01:38] [INFO] --- Cron End ---
+[2026-04-28 08:06:34] [INFO] --- Cron Start ---
+[2026-04-28 08:06:34] [INFO] --- Cron End ---
+[2026-04-28 08:11:35] [INFO] --- Cron Start ---
+[2026-04-28 08:11:35] [INFO] --- Cron End ---
+[2026-04-28 08:16:38] [INFO] --- Cron Start ---
+[2026-04-28 08:16:38] [INFO] --- Cron End ---
+[2026-04-28 08:22:47] [INFO] --- Cron Start ---
+[2026-04-28 08:22:47] [INFO] --- Cron End ---
+[2026-04-28 08:26:37] [INFO] --- Cron Start ---
+[2026-04-28 08:26:37] [INFO] --- Cron End ---
+[2026-04-28 08:31:37] [INFO] --- Cron Start ---
+[2026-04-28 08:31:37] [INFO] --- Cron End ---
+[2026-04-28 08:36:38] [INFO] --- Cron Start ---
+[2026-04-28 08:36:38] [INFO] --- Cron End ---
+[2026-04-28 08:41:35] [INFO] --- Cron Start ---
+[2026-04-28 08:41:35] [INFO] --- Cron End ---
+[2026-04-28 08:46:37] [INFO] --- Cron Start ---
+[2026-04-28 08:46:37] [INFO] --- Cron End ---
+[2026-04-28 08:51:35] [INFO] --- Cron Start ---
+[2026-04-28 08:51:35] [INFO] --- Cron End ---
+[2026-04-28 08:56:34] [INFO] --- Cron Start ---
+[2026-04-28 08:56:34] [INFO] --- Cron End ---
+[2026-04-28 09:01:34] [INFO] --- Cron Start ---
+[2026-04-28 09:01:34] [INFO] --- Cron End ---
+[2026-04-28 09:06:51] [INFO] --- Cron Start ---
+[2026-04-28 09:06:51] [INFO] --- Cron End ---
+[2026-04-28 09:11:43] [INFO] --- Cron Start ---
+[2026-04-28 09:11:43] [INFO] --- Cron End ---
+[2026-04-28 09:16:47] [INFO] --- Cron Start ---
+[2026-04-28 09:16:47] [INFO] --- Cron End ---
+[2026-04-28 10:57:22] [INFO] --- Cron Start ---
+[2026-04-28 10:57:22] [INFO] --- Cron End ---
+[2026-04-28 11:01:46] [INFO] --- Cron Start ---
+[2026-04-28 11:01:46] [INFO] --- Cron End ---
+[2026-04-28 11:06:35] [INFO] --- Cron Start ---
+[2026-04-28 11:06:35] [INFO] --- Cron End ---
+[2026-04-28 11:11:37] [INFO] --- Cron Start ---
+[2026-04-28 11:11:37] [INFO] --- Cron End ---
+[2026-04-28 11:16:37] [INFO] --- Cron Start ---
+[2026-04-28 11:16:37] [INFO] --- Cron End ---
+[2026-04-28 11:21:37] [INFO] --- Cron Start ---
+[2026-04-28 11:21:37] [INFO] --- Cron End ---
+[2026-04-28 11:26:37] [INFO] --- Cron Start ---
+[2026-04-28 11:26:37] [INFO] --- Cron End ---
+[2026-04-28 11:32:04] [INFO] --- Cron Start ---
+[2026-04-28 11:32:04] [INFO] --- Cron End ---
+[2026-04-28 11:36:38] [INFO] --- Cron Start ---
+[2026-04-28 11:36:38] [INFO] --- Cron End ---
+[2026-04-28 11:41:37] [INFO] --- Cron Start ---
+[2026-04-28 11:41:37] [INFO] --- Cron End ---
+[2026-04-28 11:46:38] [INFO] --- Cron Start ---
+[2026-04-28 11:46:38] [INFO] --- Cron End ---
+[2026-04-28 11:51:36] [INFO] --- Cron Start ---
+[2026-04-28 11:51:36] [INFO] --- Cron End ---
+[2026-04-28 11:56:36] [INFO] --- Cron Start ---
+[2026-04-28 11:56:36] [INFO] --- Cron End ---
+[2026-04-28 12:01:37] [INFO] --- Cron Start ---
+[2026-04-28 12:01:37] [INFO] --- Cron End ---
+[2026-04-28 12:06:40] [INFO] --- Cron Start ---
+[2026-04-28 12:06:40] [INFO] --- Cron End ---
+[2026-04-28 12:11:41] [INFO] --- Cron Start ---
+[2026-04-28 12:11:41] [INFO] --- Cron End ---
+[2026-04-28 12:16:39] [INFO] --- Cron Start ---
+[2026-04-28 12:16:39] [INFO] --- Cron End ---
+[2026-04-28 12:21:35] [INFO] --- Cron Start ---
+[2026-04-28 12:21:35] [INFO] --- Cron End ---
+[2026-04-28 12:26:35] [INFO] --- Cron Start ---
+[2026-04-28 12:26:35] [INFO] --- Cron End ---
+[2026-04-28 13:07:51] [INFO] --- Cron Start ---
+[2026-04-28 13:07:52] [INFO] --- Cron End ---
+[2026-04-28 13:11:37] [INFO] --- Cron Start ---
+[2026-04-28 13:11:37] [INFO] --- Cron End ---
+[2026-04-28 13:16:41] [INFO] --- Cron Start ---
+[2026-04-28 13:16:41] [INFO] --- Cron End ---
+[2026-04-28 13:21:37] [INFO] --- Cron Start ---
+[2026-04-28 13:21:37] [INFO] --- Cron End ---
+[2026-04-28 13:26:37] [INFO] --- Cron Start ---
+[2026-04-28 13:26:37] [INFO] --- Cron End ---
+[2026-04-28 13:40:35] [INFO] --- Cron Start ---
+[2026-04-28 13:40:35] [INFO] --- Cron End ---
+[2026-04-28 13:41:37] [INFO] --- Cron Start ---
+[2026-04-28 13:41:37] [INFO] --- Cron End ---
+[2026-04-28 13:46:41] [INFO] --- Cron Start ---
+[2026-04-28 13:46:41] [INFO] --- Cron End ---
+[2026-04-28 13:51:39] [INFO] --- Cron Start ---
+[2026-04-28 13:51:39] [INFO] --- Cron End ---
+[2026-04-28 13:56:36] [INFO] --- Cron Start ---
+[2026-04-28 13:56:36] [INFO] --- Cron End ---
+[2026-04-29 05:38:25] [INFO] --- Cron Start ---
+[2026-04-29 05:38:27] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-29 05:38:27] [INFO] --- Cron End ---
+[2026-04-29 06:01:07] [INFO] --- Cron Start ---
+[2026-04-29 06:01:13] [INFO] --- Cron End ---
+[2026-04-29 06:09:21] [INFO] --- Cron Start ---
+[2026-04-29 06:09:24] [INFO] --- Cron End ---
+[2026-04-29 06:12:03] [INFO] --- Cron Start ---
+[2026-04-29 06:12:05] [INFO] --- Cron End ---
+[2026-04-29 06:26:42] [INFO] --- Cron Start ---
+[2026-04-29 06:26:42] [INFO] --- Cron End ---
+[2026-04-29 06:31:36] [INFO] --- Cron Start ---
+[2026-04-29 06:31:36] [INFO] --- Cron End ---
+[2026-04-29 06:36:35] [INFO] --- Cron Start ---
+[2026-04-29 06:36:35] [INFO] --- Cron End ---
+[2026-04-29 06:41:39] [INFO] --- Cron Start ---
+[2026-04-29 06:41:39] [INFO] --- Cron End ---
+[2026-04-29 06:46:40] [INFO] --- Cron Start ---
+[2026-04-29 06:46:40] [INFO] --- Cron End ---
+[2026-04-29 06:51:37] [INFO] --- Cron Start ---
+[2026-04-29 06:51:37] [INFO] --- Cron End ---
+[2026-04-29 06:56:37] [INFO] --- Cron Start ---
+[2026-04-29 06:56:37] [INFO] --- Cron End ---
+[2026-04-29 07:02:13] [INFO] --- Cron Start ---
+[2026-04-29 07:02:14] [INFO] --- Cron End ---
+[2026-04-29 07:06:36] [INFO] --- Cron Start ---
+[2026-04-29 07:06:36] [INFO] --- Cron End ---
+[2026-04-29 07:11:39] [INFO] --- Cron Start ---
+[2026-04-29 07:11:39] [INFO] --- Cron End ---
+[2026-04-29 07:17:26] [INFO] --- Cron Start ---
+[2026-04-29 07:17:26] [INFO] --- Cron End ---
+[2026-04-29 07:21:50] [INFO] --- Cron Start ---
+[2026-04-29 07:21:50] [INFO] --- Cron End ---
+[2026-04-29 07:26:39] [INFO] --- Cron Start ---
+[2026-04-29 07:26:40] [INFO] --- Cron End ---
+[2026-04-29 07:31:52] [INFO] --- Cron Start ---
+[2026-04-29 07:31:53] [INFO] --- Cron End ---
+[2026-04-29 07:36:35] [INFO] --- Cron Start ---
+[2026-04-29 07:36:35] [INFO] --- Cron End ---
+[2026-04-29 07:41:35] [INFO] --- Cron Start ---
+[2026-04-29 07:41:35] [INFO] --- Cron End ---
+[2026-04-29 07:46:39] [INFO] --- Cron Start ---
+[2026-04-29 07:46:39] [INFO] --- Cron End ---
+[2026-04-29 07:51:38] [INFO] --- Cron Start ---
+[2026-04-29 07:51:38] [INFO] --- Cron End ---
+[2026-04-29 07:56:39] [INFO] --- Cron Start ---
+[2026-04-29 07:56:39] [INFO] --- Cron End ---
+[2026-04-29 08:01:37] [INFO] --- Cron Start ---
+[2026-04-29 08:01:37] [INFO] --- Cron End ---
+[2026-04-29 08:06:41] [INFO] --- Cron Start ---
+[2026-04-29 08:06:41] [INFO] --- Cron End ---
+[2026-04-29 08:11:35] [INFO] --- Cron Start ---
+[2026-04-29 08:11:35] [INFO] --- Cron End ---
+[2026-04-29 08:17:13] [INFO] --- Cron Start ---
+[2026-04-29 08:17:13] [INFO] --- Cron End ---
+[2026-04-29 08:21:53] [INFO] --- Cron Start ---
+[2026-04-29 08:21:54] [INFO] --- Cron End ---
+[2026-04-29 08:26:36] [INFO] --- Cron Start ---
+[2026-04-29 08:26:36] [INFO] --- Cron End ---
+[2026-04-29 08:31:34] [INFO] --- Cron Start ---
+[2026-04-29 08:31:34] [INFO] --- Cron End ---
+[2026-04-29 08:36:40] [INFO] --- Cron Start ---
+[2026-04-29 08:36:40] [INFO] --- Cron End ---
+[2026-04-29 08:41:38] [INFO] --- Cron Start ---
+[2026-04-29 08:41:38] [INFO] --- Cron End ---
+[2026-04-29 08:46:34] [INFO] --- Cron Start ---
+[2026-04-29 08:46:34] [INFO] --- Cron End ---
+[2026-04-29 08:51:40] [INFO] --- Cron Start ---
+[2026-04-29 08:51:40] [INFO] --- Cron End ---
+[2026-04-29 08:56:39] [INFO] --- Cron Start ---
+[2026-04-29 08:56:39] [INFO] --- Cron End ---
+[2026-04-29 09:01:35] [INFO] --- Cron Start ---
+[2026-04-29 09:01:36] [INFO] --- Cron End ---
+[2026-04-29 09:06:35] [INFO] --- Cron Start ---
+[2026-04-29 09:06:35] [INFO] --- Cron End ---
+[2026-04-29 09:11:37] [INFO] --- Cron Start ---
+[2026-04-29 09:11:37] [INFO] --- Cron End ---
+[2026-04-29 09:16:38] [INFO] --- Cron Start ---
+[2026-04-29 09:16:38] [INFO] --- Cron End ---
+[2026-04-29 09:21:55] [INFO] --- Cron Start ---
+[2026-04-29 09:21:55] [INFO] --- Cron End ---
+[2026-04-29 09:26:41] [INFO] --- Cron Start ---
+[2026-04-29 09:26:41] [INFO] --- Cron End ---
+[2026-04-29 09:31:34] [INFO] --- Cron Start ---
+[2026-04-29 09:31:34] [INFO] --- Cron End ---
+[2026-04-29 09:36:35] [INFO] --- Cron Start ---
+[2026-04-29 09:36:35] [INFO] --- Cron End ---
+[2026-04-29 09:41:38] [INFO] --- Cron Start ---
+[2026-04-29 09:41:38] [INFO] --- Cron End ---
+[2026-04-29 09:46:35] [INFO] --- Cron Start ---
+[2026-04-29 09:46:35] [INFO] --- Cron End ---
+[2026-04-29 09:51:35] [INFO] --- Cron Start ---
+[2026-04-29 09:51:35] [INFO] --- Cron End ---
+[2026-04-29 09:56:39] [INFO] --- Cron Start ---
+[2026-04-29 09:56:39] [INFO] --- Cron End ---
+[2026-04-29 10:01:36] [INFO] --- Cron Start ---
+[2026-04-29 10:01:36] [INFO] --- Cron End ---
+[2026-04-29 10:06:38] [INFO] --- Cron Start ---
+[2026-04-29 10:06:38] [INFO] --- Cron End ---
+[2026-04-29 10:12:08] [INFO] --- Cron Start ---
+[2026-04-29 10:12:08] [INFO] --- Cron End ---
+[2026-04-29 10:16:57] [INFO] --- Cron Start ---
+[2026-04-29 10:16:57] [INFO] --- Cron End ---
+[2026-04-29 10:21:35] [INFO] --- Cron Start ---
+[2026-04-29 10:21:35] [INFO] --- Cron End ---
+[2026-04-29 10:26:34] [INFO] --- Cron Start ---
+[2026-04-29 10:26:34] [INFO] --- Cron End ---
+[2026-04-29 10:31:44] [INFO] --- Cron Start ---
+[2026-04-29 10:31:44] [INFO] --- Cron End ---
+[2026-04-29 10:36:38] [INFO] --- Cron Start ---
+[2026-04-29 10:36:38] [INFO] --- Cron End ---
+[2026-04-29 10:41:40] [INFO] --- Cron Start ---
+[2026-04-29 10:41:40] [INFO] --- Cron End ---
+[2026-04-29 10:46:34] [INFO] --- Cron Start ---
+[2026-04-29 10:46:34] [INFO] --- Cron End ---
+[2026-04-29 10:51:35] [INFO] --- Cron Start ---
+[2026-04-29 10:51:35] [INFO] --- Cron End ---
+[2026-04-29 10:56:35] [INFO] --- Cron Start ---
+[2026-04-29 10:56:35] [INFO] --- Cron End ---
+[2026-04-29 11:01:35] [INFO] --- Cron Start ---
+[2026-04-29 11:01:35] [INFO] --- Cron End ---
+[2026-04-29 11:06:35] [INFO] --- Cron Start ---
+[2026-04-29 11:06:35] [INFO] --- Cron End ---
+[2026-04-29 11:11:41] [INFO] --- Cron Start ---
+[2026-04-29 11:11:42] [INFO] --- Cron End ---
+[2026-04-29 11:17:00] [INFO] --- Cron Start ---
+[2026-04-29 11:17:00] [INFO] --- Cron End ---
+[2026-04-29 11:23:11] [INFO] --- Cron Start ---
+[2026-04-29 11:23:14] [INFO] --- Cron End ---
+[2026-04-29 11:29:20] [INFO] --- Cron Start ---
+[2026-04-29 11:29:22] [INFO] --- Cron End ---
+[2026-04-29 11:32:29] [INFO] --- Cron Start ---
+[2026-04-29 11:32:29] [INFO] --- Cron End ---
+[2026-04-29 11:37:04] [INFO] --- Cron Start ---
+[2026-04-29 11:37:04] [INFO] --- Cron End ---
+[2026-04-29 11:41:45] [INFO] --- Cron Start ---
+[2026-04-29 11:41:45] [INFO] --- Cron End ---
+[2026-04-29 11:46:41] [INFO] --- Cron Start ---
+[2026-04-29 11:46:41] [INFO] --- Cron End ---
+[2026-04-29 11:51:50] [INFO] --- Cron Start ---
+[2026-04-29 11:51:51] [INFO] --- Cron End ---
+[2026-04-29 11:56:36] [INFO] --- Cron Start ---
+[2026-04-29 11:56:36] [INFO] --- Cron End ---
+[2026-04-29 12:01:36] [INFO] --- Cron Start ---
+[2026-04-29 12:01:36] [INFO] --- Cron End ---
+[2026-04-29 12:06:37] [INFO] --- Cron Start ---
+[2026-04-29 12:06:37] [INFO] --- Cron End ---
+[2026-04-29 12:11:37] [INFO] --- Cron Start ---
+[2026-04-29 12:11:38] [INFO] --- Cron End ---
+[2026-04-29 12:16:35] [INFO] --- Cron Start ---
+[2026-04-29 12:16:35] [INFO] --- Cron End ---
+[2026-04-29 12:22:27] [INFO] --- Cron Start ---
+[2026-04-29 12:22:27] [INFO] --- Cron End ---
+[2026-04-29 12:26:38] [INFO] --- Cron Start ---
+[2026-04-29 12:26:38] [INFO] --- Cron End ---
+[2026-04-29 12:32:57] [INFO] --- Cron Start ---
+[2026-04-29 12:32:58] [INFO] --- Cron End ---
+[2026-04-29 12:36:36] [INFO] --- Cron Start ---
+[2026-04-29 12:36:36] [INFO] --- Cron End ---
+[2026-04-29 12:41:35] [INFO] --- Cron Start ---
+[2026-04-29 12:41:35] [INFO] --- Cron End ---
+[2026-04-29 12:46:43] [INFO] --- Cron Start ---
+[2026-04-29 12:46:44] [INFO] --- Cron End ---
+[2026-04-29 12:51:38] [INFO] --- Cron Start ---
+[2026-04-29 12:51:38] [INFO] --- Cron End ---
+[2026-04-29 12:56:46] [INFO] --- Cron Start ---
+[2026-04-29 12:56:46] [INFO] --- Cron End ---
+[2026-04-29 13:01:37] [INFO] --- Cron Start ---
+[2026-04-29 13:01:38] [INFO] --- Cron End ---
+[2026-04-29 13:06:35] [INFO] --- Cron Start ---
+[2026-04-29 13:06:35] [INFO] --- Cron End ---
+[2026-04-29 13:11:36] [INFO] --- Cron Start ---
+[2026-04-29 13:11:36] [INFO] --- Cron End ---
+[2026-04-29 13:17:03] [INFO] --- Cron Start ---
+[2026-04-29 13:17:04] [INFO] --- Cron End ---
+[2026-04-29 13:21:34] [INFO] --- Cron Start ---
+[2026-04-29 13:21:34] [INFO] --- Cron End ---
+[2026-04-29 13:26:43] [INFO] --- Cron Start ---
+[2026-04-29 13:26:43] [INFO] --- Cron End ---
+[2026-04-29 13:31:38] [INFO] --- Cron Start ---
+[2026-04-29 13:31:38] [INFO] --- Cron End ---
+[2026-04-29 13:36:40] [INFO] --- Cron Start ---
+[2026-04-29 13:36:40] [INFO] --- Cron End ---
+[2026-04-29 13:41:40] [INFO] --- Cron Start ---
+[2026-04-29 13:41:40] [INFO] --- Cron End ---
+[2026-04-29 13:46:52] [INFO] --- Cron Start ---
+[2026-04-29 13:46:52] [INFO] --- Cron End ---
+[2026-04-29 13:52:57] [INFO] --- Cron Start ---
+[2026-04-29 13:52:58] [INFO] --- Cron End ---
+[2026-04-29 13:56:38] [INFO] --- Cron Start ---
+[2026-04-29 13:56:38] [INFO] --- Cron End ---
+[2026-04-30 05:19:49] [INFO] --- Cron Start ---
+[2026-04-30 05:19:49] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:19:49] [INFO] --- Cron End ---
+[2026-04-30 05:21:46] [INFO] --- Cron Start ---
+[2026-04-30 05:21:46] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:21:47] [INFO] --- Cron End ---
+[2026-04-30 05:26:38] [INFO] --- Cron Start ---
+[2026-04-30 05:26:38] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:26:38] [INFO] --- Cron End ---
+[2026-04-30 05:31:56] [INFO] --- Cron Start ---
+[2026-04-30 05:31:56] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:31:56] [INFO] --- Cron End ---
+[2026-04-30 05:36:41] [INFO] --- Cron Start ---
+[2026-04-30 05:36:41] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:36:41] [INFO] --- Cron End ---
+[2026-04-30 05:42:13] [INFO] --- Cron Start ---
+[2026-04-30 05:42:13] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:42:13] [INFO] --- Cron End ---
+[2026-04-30 05:46:35] [INFO] --- Cron Start ---
+[2026-04-30 05:46:35] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:46:35] [INFO] --- Cron End ---
+[2026-04-30 05:51:37] [INFO] --- Cron Start ---
+[2026-04-30 05:51:37] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:51:37] [INFO] --- Cron End ---
+[2026-04-30 05:56:39] [INFO] --- Cron Start ---
+[2026-04-30 05:56:39] [INFO] Quiet hours active. Skipping transmission.
+[2026-04-30 05:56:39] [INFO] --- Cron End ---
+[2026-04-30 06:01:39] [INFO] --- Cron Start ---
+[2026-04-30 06:01:39] [INFO] --- Cron End ---
+[2026-04-30 06:06:35] [INFO] --- Cron Start ---
+[2026-04-30 06:06:35] [INFO] --- Cron End ---
+[2026-04-30 06:11:46] [INFO] --- Cron Start ---
+[2026-04-30 06:11:46] [INFO] --- Cron End ---
+[2026-04-30 06:16:38] [INFO] --- Cron Start ---
+[2026-04-30 06:16:38] [INFO] --- Cron End ---
+[2026-04-30 06:21:37] [INFO] --- Cron Start ---
+[2026-04-30 06:21:37] [INFO] --- Cron End ---
+[2026-04-30 06:26:38] [INFO] --- Cron Start ---
+[2026-04-30 06:26:38] [INFO] --- Cron End ---
+[2026-04-30 06:31:37] [INFO] --- Cron Start ---
+[2026-04-30 06:31:37] [INFO] --- Cron End ---
+[2026-04-30 06:36:35] [INFO] --- Cron Start ---
+[2026-04-30 06:36:35] [INFO] --- Cron End ---
+[2026-04-30 06:41:35] [INFO] --- Cron Start ---
+[2026-04-30 06:41:35] [INFO] --- Cron End ---
+[2026-04-30 06:46:38] [INFO] --- Cron Start ---
+[2026-04-30 06:46:38] [INFO] --- Cron End ---
+[2026-04-30 06:51:40] [INFO] --- Cron Start ---
+[2026-04-30 06:51:41] [INFO] --- Cron End ---
+[2026-04-30 06:56:37] [INFO] --- Cron Start ---
+[2026-04-30 06:56:37] [INFO] --- Cron End ---
+[2026-04-30 07:01:44] [INFO] --- Cron Start ---
+[2026-04-30 07:01:44] [INFO] --- Cron End ---
+[2026-04-30 07:06:46] [INFO] --- Cron Start ---
+[2026-04-30 07:06:46] [INFO] --- Cron End ---
+[2026-04-30 07:11:37] [INFO] --- Cron Start ---
+[2026-04-30 07:11:37] [INFO] --- Cron End ---
+[2026-04-30 07:16:55] [INFO] --- Cron Start ---
+[2026-04-30 07:16:56] [INFO] --- Cron End ---
+[2026-04-30 07:21:39] [INFO] --- Cron Start ---
+[2026-04-30 07:21:39] [INFO] --- Cron End ---
+[2026-04-30 07:26:41] [INFO] --- Cron Start ---
+[2026-04-30 07:26:41] [INFO] --- Cron End ---
+[2026-04-30 07:31:44] [INFO] --- Cron Start ---
+[2026-04-30 07:31:45] [INFO] --- Cron End ---
+[2026-04-30 07:36:40] [INFO] --- Cron Start ---
+[2026-04-30 07:36:40] [INFO] --- Cron End ---
+[2026-04-30 07:41:45] [INFO] --- Cron Start ---
+[2026-04-30 07:41:45] [INFO] --- Cron End ---
+[2026-04-30 07:46:39] [INFO] --- Cron Start ---
+[2026-04-30 07:46:39] [INFO] --- Cron End ---
+[2026-04-30 07:51:37] [INFO] --- Cron Start ---
+[2026-04-30 07:51:38] [INFO] --- Cron End ---
+[2026-04-30 07:56:39] [INFO] --- Cron Start ---
+[2026-04-30 07:56:39] [INFO] --- Cron End ---
+[2026-04-30 08:01:40] [INFO] --- Cron Start ---
+[2026-04-30 08:01:40] [INFO] --- Cron End ---
+[2026-04-30 08:06:38] [INFO] --- Cron Start ---
+[2026-04-30 08:06:38] [INFO] --- Cron End ---
+[2026-04-30 08:11:58] [INFO] --- Cron Start ---
+[2026-04-30 08:11:58] [INFO] --- Cron End ---
+[2026-04-30 08:16:39] [INFO] --- Cron Start ---
+[2026-04-30 08:16:39] [INFO] --- Cron End ---
+[2026-04-30 08:21:38] [INFO] --- Cron Start ---
+[2026-04-30 08:21:38] [INFO] --- Cron End ---
+[2026-04-30 08:26:39] [INFO] --- Cron Start ---
+[2026-04-30 08:26:39] [INFO] --- Cron End ---
+[2026-04-30 08:31:38] [INFO] --- Cron Start ---
+[2026-04-30 08:31:38] [INFO] --- Cron End ---
+[2026-04-30 08:36:44] [INFO] --- Cron Start ---
+[2026-04-30 08:36:44] [INFO] --- Cron End ---
+[2026-04-30 08:41:47] [INFO] --- Cron Start ---
+[2026-04-30 08:41:47] [INFO] --- Cron End ---
+[2026-04-30 08:46:36] [INFO] --- Cron Start ---
+[2026-04-30 08:46:36] [INFO] --- Cron End ---
+[2026-04-30 08:51:36] [INFO] --- Cron Start ---
+[2026-04-30 08:51:36] [INFO] --- Cron End ---
+[2026-04-30 08:56:39] [INFO] --- Cron Start ---
+[2026-04-30 08:56:39] [INFO] --- Cron End ---
+[2026-04-30 09:01:36] [INFO] --- Cron Start ---
+[2026-04-30 09:01:36] [INFO] --- Cron End ---
+[2026-04-30 09:06:36] [INFO] --- Cron Start ---
+[2026-04-30 09:06:36] [INFO] --- Cron End ---
+[2026-04-30 09:11:42] [INFO] --- Cron Start ---
+[2026-04-30 09:11:42] [INFO] --- Cron End ---
+[2026-04-30 09:16:44] [INFO] --- Cron Start ---
+[2026-04-30 09:16:44] [INFO] --- Cron End ---
+[2026-04-30 09:21:39] [INFO] --- Cron Start ---
+[2026-04-30 09:21:39] [INFO] --- Cron End ---
+[2026-04-30 09:26:38] [INFO] --- Cron Start ---
+[2026-04-30 09:26:38] [INFO] --- Cron End ---
+[2026-04-30 09:31:37] [INFO] --- Cron Start ---
+[2026-04-30 09:31:37] [INFO] --- Cron End ---
+[2026-04-30 09:38:38] [INFO] --- Cron Start ---
+[2026-04-30 09:38:38] [INFO] --- Cron End ---
+[2026-04-30 09:41:36] [INFO] --- Cron Start ---
+[2026-04-30 09:41:36] [INFO] --- Cron End ---
+[2026-04-30 09:46:36] [INFO] --- Cron Start ---
+[2026-04-30 09:46:36] [INFO] --- Cron End ---
+[2026-04-30 09:52:09] [INFO] --- Cron Start ---
+[2026-04-30 09:52:10] [INFO] --- Cron End ---
+[2026-04-30 09:56:42] [INFO] --- Cron Start ---
+[2026-04-30 09:56:42] [INFO] --- Cron End ---
+[2026-04-30 10:01:37] [INFO] --- Cron Start ---
+[2026-04-30 10:01:37] [INFO] --- Cron End ---
+[2026-04-30 10:06:40] [INFO] --- Cron Start ---
+[2026-04-30 10:06:41] [INFO] --- Cron End ---
+[2026-04-30 10:11:37] [INFO] --- Cron Start ---
+[2026-04-30 10:11:38] [INFO] --- Cron End ---
+[2026-04-30 10:19:08] [INFO] --- Cron Start ---
+[2026-04-30 10:19:10] [INFO] --- Cron End ---
+[2026-04-30 10:23:34] [INFO] --- Cron Start ---
+[2026-04-30 10:23:36] [INFO] --- Cron End ---
+[2026-04-30 10:28:29] [INFO] --- Cron Start ---
+[2026-04-30 10:28:36] [INFO] --- Cron End ---
+[2026-04-30 10:31:52] [INFO] --- Cron Start ---
+[2026-04-30 10:31:52] [INFO] --- Cron End ---
+[2026-04-30 10:36:36] [INFO] --- Cron Start ---
+[2026-04-30 10:36:36] [INFO] --- Cron End ---
+[2026-04-30 10:41:43] [INFO] --- Cron Start ---
+[2026-04-30 10:41:43] [INFO] --- Cron End ---
+[2026-04-30 10:46:37] [INFO] --- Cron Start ---
+[2026-04-30 10:46:38] [INFO] --- Cron End ---
+[2026-04-30 10:51:44] [INFO] --- Cron Start ---
+[2026-04-30 10:51:44] [INFO] --- Cron End ---
+[2026-04-30 10:56:39] [INFO] --- Cron Start ---
+[2026-04-30 10:56:39] [INFO] --- Cron End ---
+[2026-04-30 11:04:05] [INFO] --- Cron Start ---
+[2026-04-30 11:04:06] [INFO] --- Cron End ---
+[2026-04-30 11:08:11] [INFO] --- Cron Start ---
+[2026-04-30 11:08:12] [INFO] --- Cron End ---
+[2026-04-30 11:11:44] [INFO] --- Cron Start ---
+[2026-04-30 11:11:45] [INFO] --- Cron End ---
+[2026-04-30 11:16:58] [INFO] --- Cron Start ---
+[2026-04-30 11:16:59] [INFO] --- Cron End ---
+[2026-04-30 11:22:08] [INFO] --- Cron Start ---
+[2026-04-30 11:22:08] [INFO] --- Cron End ---
+[2026-04-30 11:27:11] [INFO] --- Cron Start ---
+[2026-04-30 11:27:11] [INFO] --- Cron End ---
+[2026-04-30 11:31:47] [INFO] --- Cron Start ---
+[2026-04-30 11:31:47] [INFO] --- Cron End ---
+[2026-04-30 11:36:40] [INFO] --- Cron Start ---
+[2026-04-30 11:36:41] [INFO] --- Cron End ---
+[2026-04-30 11:41:47] [INFO] --- Cron Start ---
+[2026-04-30 11:41:47] [INFO] --- Cron End ---
+[2026-04-30 11:46:37] [INFO] --- Cron Start ---
+[2026-04-30 11:46:37] [INFO] --- Cron End ---
+[2026-04-30 11:51:39] [INFO] --- Cron Start ---
+[2026-04-30 11:51:39] [INFO] --- Cron End ---
+[2026-04-30 11:56:37] [INFO] --- Cron Start ---
+[2026-04-30 11:56:37] [INFO] --- Cron End ---
+[2026-04-30 12:01:37] [INFO] --- Cron Start ---
+[2026-04-30 12:01:37] [INFO] --- Cron End ---
+[2026-04-30 12:06:39] [INFO] --- Cron Start ---
+[2026-04-30 12:06:39] [INFO] --- Cron End ---
+[2026-04-30 12:11:37] [INFO] --- Cron Start ---
+[2026-04-30 12:11:37] [INFO] --- Cron End ---
+[2026-04-30 12:16:38] [INFO] --- Cron Start ---
+[2026-04-30 12:16:38] [INFO] --- Cron End ---
+[2026-04-30 12:21:38] [INFO] --- Cron Start ---
+[2026-04-30 12:21:38] [INFO] --- Cron End ---
+[2026-04-30 12:26:41] [INFO] --- Cron Start ---
+[2026-04-30 12:26:41] [INFO] --- Cron End ---
+[2026-04-30 12:31:37] [INFO] --- Cron Start ---
+[2026-04-30 12:31:37] [INFO] --- Cron End ---
+[2026-04-30 12:36:37] [INFO] --- Cron Start ---
+[2026-04-30 12:36:37] [INFO] --- Cron End ---
+[2026-04-30 12:41:38] [INFO] --- Cron Start ---
+[2026-04-30 12:41:38] [INFO] --- Cron End ---
+[2026-04-30 12:46:48] [INFO] --- Cron Start ---
+[2026-04-30 12:46:49] [INFO] --- Cron End ---
+[2026-04-30 12:51:39] [INFO] --- Cron Start ---
+[2026-04-30 12:51:39] [INFO] --- Cron End ---
+[2026-04-30 12:56:39] [INFO] --- Cron Start ---
+[2026-04-30 12:56:39] [INFO] --- Cron End ---
+[2026-04-30 13:01:40] [INFO] --- Cron Start ---
+[2026-04-30 13:01:40] [INFO] --- Cron End ---
+[2026-04-30 13:07:17] [INFO] --- Cron Start ---
+[2026-04-30 13:07:17] [INFO] --- Cron End ---
+[2026-04-30 13:11:40] [INFO] --- Cron Start ---
+[2026-04-30 13:11:40] [INFO] --- Cron End ---
+[2026-04-30 13:16:57] [INFO] --- Cron Start ---
+[2026-04-30 13:16:58] [INFO] --- Cron End ---
+[2026-04-30 13:21:37] [INFO] --- Cron Start ---
+[2026-04-30 13:21:37] [INFO] --- Cron End ---
+[2026-04-30 13:27:06] [INFO] --- Cron Start ---
+[2026-04-30 13:27:06] [INFO] --- Cron End ---
+[2026-04-30 13:31:40] [INFO] --- Cron Start ---
+[2026-04-30 13:31:40] [INFO] --- Cron End ---
+[2026-04-30 13:36:53] [INFO] --- Cron Start ---
+[2026-04-30 13:36:53] [INFO] --- Cron End ---
+[2026-04-30 13:41:49] [INFO] --- Cron Start ---
+[2026-04-30 13:41:49] [INFO] --- Cron End ---
+[2026-04-30 13:46:43] [INFO] --- Cron Start ---
+[2026-04-30 13:46:43] [INFO] --- Cron End ---
+[2026-04-30 13:53:57] [INFO] --- Cron Start ---
+[2026-04-30 13:53:57] [INFO] --- Cron End ---
+[2026-04-30 13:57:22] [INFO] --- Cron Start ---
+[2026-04-30 13:57:22] [INFO] --- Cron End ---
+[2026-04-30 14:01:54] [INFO] --- Cron Start ---
+[2026-04-30 14:01:55] [INFO] --- Cron End ---
+[2026-04-30 14:09:44] [INFO] --- Cron Start ---
+[2026-04-30 14:09:45] [INFO] --- Cron End ---
+[2026-04-30 14:11:37] [INFO] --- Cron Start ---
+[2026-04-30 14:11:37] [INFO] --- Cron End ---
+[2026-04-30 14:16:51] [INFO] --- Cron Start ---
+[2026-04-30 14:16:51] [INFO] --- Cron End ---
+[2026-04-30 14:21:38] [INFO] --- Cron Start ---
+[2026-04-30 14:21:38] [INFO] --- Cron End ---
+[2026-04-30 14:26:37] [INFO] --- Cron Start ---
+[2026-04-30 14:26:37] [INFO] --- Cron End ---
+[2026-04-30 14:31:38] [INFO] --- Cron Start ---
+[2026-04-30 14:31:38] [INFO] --- Cron End ---
+[2026-04-30 14:36:41] [INFO] --- Cron Start ---
+[2026-04-30 14:36:41] [INFO] --- Cron End ---
+[2026-04-30 14:41:37] [INFO] --- Cron Start ---
+[2026-04-30 14:41:37] [INFO] --- Cron End ---
+[2026-04-30 14:46:36] [INFO] --- Cron Start ---
+[2026-04-30 14:46:36] [INFO] --- Cron End ---
+[2026-04-30 14:51:37] [INFO] --- Cron Start ---
+[2026-04-30 14:51:37] [INFO] --- Cron End ---
+[2026-04-30 14:56:38] [INFO] --- Cron Start ---
+[2026-04-30 14:56:38] [INFO] --- Cron End ---
+[2026-04-30 15:01:37] [INFO] --- Cron Start ---
+[2026-04-30 15:01:37] [INFO] --- Cron End ---
+[2026-04-30 15:06:37] [INFO] --- Cron Start ---
+[2026-04-30 15:06:37] [INFO] --- Cron End ---
+[2026-04-30 15:11:37] [INFO] --- Cron Start ---
+[2026-04-30 15:11:37] [INFO] --- Cron End ---
+[2026-04-30 15:16:37] [INFO] --- Cron Start ---
+[2026-04-30 15:16:37] [INFO] --- Cron End ---
+[2026-04-30 15:21:37] [INFO] --- Cron Start ---
+[2026-04-30 15:21:37] [INFO] --- Cron End ---
+[2026-04-30 15:26:40] [INFO] --- Cron Start ---
+[2026-04-30 15:26:40] [INFO] --- Cron End ---
+[2026-04-30 15:31:40] [INFO] --- Cron Start ---
+[2026-04-30 15:31:40] [INFO] --- Cron End ---
+[2026-05-01 05:40:57] [INFO] --- Cron Start ---
+[2026-05-01 05:40:58] [INFO] Generated 0 new reminder(s) for window 2026-05-01 05:40:57 → 2026-05-01 05:55:57
+[2026-05-01 05:40:58] [INFO] Quiet hours active. Skipping transmission.
+[2026-05-01 05:40:58] [INFO] --- Cron End ---
+[2026-05-01 05:45:25] [INFO] --- Cron Start ---
+[2026-05-01 05:45:25] [INFO] Generated 0 new reminder(s) for window 2026-05-01 05:45:25 → 2026-05-01 06:00:25
+[2026-05-01 05:45:25] [INFO] Quiet hours active. Skipping transmission.
+[2026-05-01 05:45:25] [INFO] --- Cron End ---
+[2026-05-01 05:47:02] [INFO] --- Cron Start ---
+[2026-05-01 05:47:02] [INFO] Generated 0 new reminder(s) for window 2026-05-01 05:47:02 → 2026-05-01 06:02:02
+[2026-05-01 05:47:02] [INFO] Quiet hours active. Skipping transmission.
+[2026-05-01 05:47:02] [INFO] --- Cron End ---
+[2026-05-01 05:52:43] [INFO] --- Cron Start ---
+[2026-05-01 05:52:43] [INFO] Generated 0 new reminder(s) for window 2026-05-01 05:52:43 → 2026-05-01 06:07:43
+[2026-05-01 05:52:43] [INFO] Quiet hours active. Skipping transmission.
+[2026-05-01 05:52:43] [INFO] --- Cron End ---
+[2026-05-01 05:56:34] [INFO] --- Cron Start ---
+[2026-05-01 05:56:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 05:56:35 → 2026-05-01 06:11:35
+[2026-05-01 05:56:35] [INFO] Quiet hours active. Skipping transmission.
+[2026-05-01 05:56:35] [INFO] --- Cron End ---
+[2026-05-01 06:01:35] [INFO] --- Cron Start ---
+[2026-05-01 06:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:01:35 → 2026-05-01 06:16:35
+[2026-05-01 06:01:35] [INFO] --- Cron End ---
+[2026-05-01 06:06:39] [INFO] --- Cron Start ---
+[2026-05-01 06:06:39] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:06:39 → 2026-05-01 06:21:39
+[2026-05-01 06:06:39] [INFO] --- Cron End ---
+[2026-05-01 06:11:36] [INFO] --- Cron Start ---
+[2026-05-01 06:11:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:11:36 → 2026-05-01 06:26:36
+[2026-05-01 06:11:36] [INFO] --- Cron End ---
+[2026-05-01 06:16:44] [INFO] --- Cron Start ---
+[2026-05-01 06:16:44] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:16:44 → 2026-05-01 06:31:44
+[2026-05-01 06:16:44] [INFO] --- Cron End ---
+[2026-05-01 06:21:44] [INFO] --- Cron Start ---
+[2026-05-01 06:21:44] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:21:44 → 2026-05-01 06:36:44
+[2026-05-01 06:21:44] [INFO] --- Cron End ---
+[2026-05-01 06:26:38] [INFO] --- Cron Start ---
+[2026-05-01 06:26:38] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:26:38 → 2026-05-01 06:41:38
+[2026-05-01 06:26:38] [INFO] --- Cron End ---
+[2026-05-01 06:31:34] [INFO] --- Cron Start ---
+[2026-05-01 06:31:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:31:34 → 2026-05-01 06:46:34
+[2026-05-01 06:31:34] [INFO] --- Cron End ---
+[2026-05-01 06:36:36] [INFO] --- Cron Start ---
+[2026-05-01 06:36:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:36:36 → 2026-05-01 06:51:36
+[2026-05-01 06:36:36] [INFO] --- Cron End ---
+[2026-05-01 06:41:35] [INFO] --- Cron Start ---
+[2026-05-01 06:41:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:41:35 → 2026-05-01 06:56:35
+[2026-05-01 06:41:35] [INFO] --- Cron End ---
+[2026-05-01 06:46:35] [INFO] --- Cron Start ---
+[2026-05-01 06:46:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:46:35 → 2026-05-01 07:01:35
+[2026-05-01 06:46:35] [INFO] --- Cron End ---
+[2026-05-01 06:51:53] [INFO] --- Cron Start ---
+[2026-05-01 06:51:54] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:51:54 → 2026-05-01 07:06:54
+[2026-05-01 06:51:54] [INFO] --- Cron End ---
+[2026-05-01 06:56:38] [INFO] --- Cron Start ---
+[2026-05-01 06:56:38] [INFO] Generated 0 new reminder(s) for window 2026-05-01 06:56:38 → 2026-05-01 07:11:38
+[2026-05-01 06:56:38] [INFO] --- Cron End ---
+[2026-05-01 07:01:36] [INFO] --- Cron Start ---
+[2026-05-01 07:01:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:01:36 → 2026-05-01 07:16:36
+[2026-05-01 07:01:36] [INFO] --- Cron End ---
+[2026-05-01 07:06:34] [INFO] --- Cron Start ---
+[2026-05-01 07:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:06:34 → 2026-05-01 07:21:34
+[2026-05-01 07:06:34] [INFO] --- Cron End ---
+[2026-05-01 07:11:36] [INFO] --- Cron Start ---
+[2026-05-01 07:11:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:11:36 → 2026-05-01 07:26:36
+[2026-05-01 07:11:36] [INFO] --- Cron End ---
+[2026-05-01 07:16:38] [INFO] --- Cron Start ---
+[2026-05-01 07:16:38] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:16:38 → 2026-05-01 07:31:38
+[2026-05-01 07:16:38] [INFO] --- Cron End ---
+[2026-05-01 07:21:35] [INFO] --- Cron Start ---
+[2026-05-01 07:21:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:21:35 → 2026-05-01 07:36:35
+[2026-05-01 07:21:35] [INFO] --- Cron End ---
+[2026-05-01 07:26:34] [INFO] --- Cron Start ---
+[2026-05-01 07:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:26:34 → 2026-05-01 07:41:34
+[2026-05-01 07:26:36] [ERROR] Failed via AT to 256700765387: HTTP 400 — Request is missing required form field 'username'
+[2026-05-01 07:26:36] [INFO] --- Cron End ---
+[2026-05-01 07:26:54] [INFO] --- Cron Start ---
+[2026-05-01 07:26:54] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:26:54 → 2026-05-01 07:41:54
+[2026-05-01 07:26:56] [ERROR] Failed via AT to 256700765387: HTTP 400 — Request is missing required form field 'username'
+[2026-05-01 07:26:56] [INFO] --- Cron End ---
+[2026-05-01 07:29:48] [INFO] --- Cron Start ---
+[2026-05-01 07:29:48] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:29:48 → 2026-05-01 07:44:48
+[2026-05-01 07:29:49] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 07:29:49] [INFO] --- Cron End ---
+[2026-05-01 07:31:19] [INFO] --- Cron Start ---
+[2026-05-01 07:31:19] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:31:19 → 2026-05-01 07:46:19
+[2026-05-01 07:31:19] [INFO] --- Cron End ---
+[2026-05-01 07:31:21] [INFO] --- Cron Start ---
+[2026-05-01 07:31:21] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:31:21 → 2026-05-01 07:46:21
+[2026-05-01 07:31:21] [INFO] --- Cron End ---
+[2026-05-01 07:31:23] [INFO] --- Cron Start ---
+[2026-05-01 07:31:23] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:31:23 → 2026-05-01 07:46:23
+[2026-05-01 07:31:23] [INFO] --- Cron End ---
+[2026-05-01 07:31:25] [INFO] --- Cron Start ---
+[2026-05-01 07:31:25] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:31:25 → 2026-05-01 07:46:25
+[2026-05-01 07:31:25] [INFO] --- Cron End ---
+[2026-05-01 07:31:39] [INFO] --- Cron Start ---
+[2026-05-01 07:31:39] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:31:39 → 2026-05-01 07:46:39
+[2026-05-01 07:31:39] [INFO] --- Cron End ---
+[2026-05-01 07:32:02] [INFO] --- Cron Start ---
+[2026-05-01 07:32:02] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:32:02 → 2026-05-01 07:47:02
+[2026-05-01 07:32:03] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 07:32:03] [INFO] --- Cron End ---
+[2026-05-01 07:34:06] [INFO] --- Cron Start ---
+[2026-05-01 07:34:06] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:34:06 → 2026-05-01 07:49:06
+[2026-05-01 07:34:06] [ERROR] Failed via AT to 256700765387: cURL error: error:0A00010B:SSL routines::wrong version number
+[2026-05-01 07:34:06] [INFO] --- Cron End ---
+[2026-05-01 07:35:36] [INFO] --- Cron Start ---
+[2026-05-01 07:35:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:35:36 → 2026-05-01 07:50:36
+[2026-05-01 07:35:37] [ERROR] Failed via AT to 256700765387: cURL error: error:0A00010B:SSL routines::wrong version number
+[2026-05-01 07:35:37] [INFO] --- Cron End ---
+[2026-05-01 07:35:50] [INFO] --- Cron Start ---
+[2026-05-01 07:35:50] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:35:50 → 2026-05-01 07:50:50
+[2026-05-01 07:35:50] [INFO] --- Cron End ---
+[2026-05-01 07:35:52] [INFO] --- Cron Start ---
+[2026-05-01 07:35:52] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:35:52 → 2026-05-01 07:50:52
+[2026-05-01 07:35:52] [INFO] --- Cron End ---
+[2026-05-01 07:35:59] [INFO] --- Cron Start ---
+[2026-05-01 07:35:59] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:35:59 → 2026-05-01 07:50:59
+[2026-05-01 07:35:59] [INFO] --- Cron End ---
+[2026-05-01 07:36:02] [INFO] --- Cron Start ---
+[2026-05-01 07:36:02] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:36:02 → 2026-05-01 07:51:02
+[2026-05-01 07:36:02] [INFO] --- Cron End ---
+[2026-05-01 07:36:35] [INFO] --- Cron Start ---
+[2026-05-01 07:36:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:36:35 → 2026-05-01 07:51:35
+[2026-05-01 07:36:35] [INFO] --- Cron End ---
+[2026-05-01 07:37:46] [INFO] --- Cron Start ---
+[2026-05-01 07:37:46] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:37:46 → 2026-05-01 07:52:46
+[2026-05-01 07:37:48] [INFO] Sent via AT to 256700765387
+[2026-05-01 07:37:48] [INFO] --- Cron End ---
+[2026-05-01 07:40:34] [INFO] --- Cron Start ---
+[2026-05-01 07:40:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:40:34 → 2026-05-01 07:55:34
+[2026-05-01 07:40:34] [INFO] --- Cron End ---
+[2026-05-01 07:41:35] [INFO] --- Cron Start ---
+[2026-05-01 07:41:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:41:35 → 2026-05-01 07:56:35
+[2026-05-01 07:41:37] [ERROR] Failed via AT to 256700765387: HTTP 400 — Request is missing required form field 'username'
+[2026-05-01 07:41:37] [INFO] --- Cron End ---
+[2026-05-01 07:41:45] [INFO] --- Cron Start ---
+[2026-05-01 07:41:45] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:41:45 → 2026-05-01 07:56:45
+[2026-05-01 07:41:46] [ERROR] Failed via AT to 256700765387: HTTP 400 — Request is missing required form field 'username'
+[2026-05-01 07:41:46] [INFO] --- Cron End ---
+[2026-05-01 07:41:55] [INFO] --- Cron Start ---
+[2026-05-01 07:41:55] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:41:55 → 2026-05-01 07:56:55
+[2026-05-01 07:41:57] [INFO] Sent via AT to 256700765387
+[2026-05-01 07:41:57] [INFO] --- Cron End ---
+[2026-05-01 07:46:35] [INFO] --- Cron Start ---
+[2026-05-01 07:46:35] [INFO] Generated 11 new reminder(s) for window 2026-05-01 07:46:35 → 2026-05-01 08:01:35
+[2026-05-01 07:46:36] [INFO] Sent via AT to 256700765387
+[2026-05-01 07:46:37] [INFO] Sent via AT to 256700765387
+[2026-05-01 07:46:39] [INFO] Sent via AT to 256700765387
+[2026-05-01 07:46:40] [INFO] Sent via AT to 256700765387
+[2026-05-01 07:46:41] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:42] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:43] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:45] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:46] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:47] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:48] [INFO] Sent via AT to 256784165935
+[2026-05-01 07:46:48] [INFO] --- Cron End ---
+[2026-05-01 07:51:35] [INFO] --- Cron Start ---
+[2026-05-01 07:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:51:35 → 2026-05-01 08:06:35
+[2026-05-01 07:51:35] [INFO] --- Cron End ---
+[2026-05-01 07:56:53] [INFO] --- Cron Start ---
+[2026-05-01 07:56:53] [INFO] Generated 0 new reminder(s) for window 2026-05-01 07:56:53 → 2026-05-01 08:11:53
+[2026-05-01 07:56:53] [INFO] --- Cron End ---
+[2026-05-01 08:01:35] [INFO] --- Cron Start ---
+[2026-05-01 08:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:01:35 → 2026-05-01 08:16:35
+[2026-05-01 08:01:35] [INFO] --- Cron End ---
+[2026-05-01 08:06:34] [INFO] --- Cron Start ---
+[2026-05-01 08:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:06:34 → 2026-05-01 08:21:34
+[2026-05-01 08:06:34] [INFO] --- Cron End ---
+[2026-05-01 08:11:35] [INFO] --- Cron Start ---
+[2026-05-01 08:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:11:35 → 2026-05-01 08:26:35
+[2026-05-01 08:11:35] [INFO] --- Cron End ---
+[2026-05-01 08:16:35] [INFO] --- Cron Start ---
+[2026-05-01 08:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:16:35 → 2026-05-01 08:21:35
+[2026-05-01 08:16:35] [INFO] --- Cron End ---
+[2026-05-01 08:21:35] [INFO] --- Cron Start ---
+[2026-05-01 08:21:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:21:35 → 2026-05-01 08:26:35
+[2026-05-01 08:21:35] [INFO] --- Cron End ---
+[2026-05-01 08:26:35] [INFO] --- Cron Start ---
+[2026-05-01 08:26:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:26:35 → 2026-05-01 08:31:35
+[2026-05-01 08:26:35] [INFO] --- Cron End ---
+[2026-05-01 08:31:43] [INFO] --- Cron Start ---
+[2026-05-01 08:31:43] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:31:43 → 2026-05-01 08:36:43
+[2026-05-01 08:31:44] [INFO] --- Cron End ---
+[2026-05-01 08:36:35] [INFO] --- Cron Start ---
+[2026-05-01 08:36:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:36:35 → 2026-05-01 08:41:35
+[2026-05-01 08:36:36] [INFO] Sent via AT to 256784165935
+[2026-05-01 08:36:36] [INFO] --- Cron End ---
+[2026-05-01 08:41:42] [INFO] --- Cron Start ---
+[2026-05-01 08:41:43] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:41:42 → 2026-05-01 08:46:42
+[2026-05-01 08:41:44] [INFO] Sent via AT to 256700765387
+[2026-05-01 08:41:47] [INFO] Sent via AT to 256784165935
+[2026-05-01 08:41:49] [INFO] Sent via AT to 256784165935
+[2026-05-01 08:41:49] [INFO] --- Cron End ---
+[2026-05-01 08:46:35] [INFO] --- Cron Start ---
+[2026-05-01 08:46:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:46:35 → 2026-05-01 08:51:35
+[2026-05-01 08:46:35] [INFO] --- Cron End ---
+[2026-05-01 08:51:39] [INFO] --- Cron Start ---
+[2026-05-01 08:51:39] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:51:39 → 2026-05-01 08:56:39
+[2026-05-01 08:51:39] [INFO] --- Cron End ---
+[2026-05-01 08:56:35] [INFO] --- Cron Start ---
+[2026-05-01 08:56:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 08:56:35 → 2026-05-01 09:01:35
+[2026-05-01 08:56:36] [INFO] Sent via AT to 256700765387
+[2026-05-01 08:56:36] [INFO] --- Cron End ---
+[2026-05-01 09:01:35] [INFO] --- Cron Start ---
+[2026-05-01 09:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:01:35 → 2026-05-01 09:06:35
+[2026-05-01 09:01:35] [INFO] --- Cron End ---
+[2026-05-01 09:06:34] [INFO] --- Cron Start ---
+[2026-05-01 09:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:06:35 → 2026-05-01 09:11:35
+[2026-05-01 09:06:35] [INFO] --- Cron End ---
+[2026-05-01 09:11:35] [INFO] --- Cron Start ---
+[2026-05-01 09:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:11:35 → 2026-05-01 09:16:35
+[2026-05-01 09:11:35] [INFO] --- Cron End ---
+[2026-05-01 09:16:35] [INFO] --- Cron Start ---
+[2026-05-01 09:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:16:35 → 2026-05-01 09:21:35
+[2026-05-01 09:16:36] [INFO] Sent via AT to 256700765387
+[2026-05-01 09:16:38] [INFO] Sent via AT to 256700765387
+[2026-05-01 09:16:38] [INFO] --- Cron End ---
+[2026-05-01 09:21:36] [INFO] --- Cron Start ---
+[2026-05-01 09:21:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:21:36 → 2026-05-01 09:26:36
+[2026-05-01 09:21:36] [INFO] --- Cron End ---
+[2026-05-01 09:26:34] [INFO] --- Cron Start ---
+[2026-05-01 09:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:26:34 → 2026-05-01 09:31:34
+[2026-05-01 09:26:34] [INFO] --- Cron End ---
+[2026-05-01 09:31:34] [INFO] --- Cron Start ---
+[2026-05-01 09:31:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:31:34 → 2026-05-01 09:36:34
+[2026-05-01 09:31:34] [INFO] --- Cron End ---
+[2026-05-01 09:36:34] [INFO] --- Cron Start ---
+[2026-05-01 09:36:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:36:34 → 2026-05-01 09:41:34
+[2026-05-01 09:36:34] [INFO] --- Cron End ---
+[2026-05-01 09:41:35] [INFO] --- Cron Start ---
+[2026-05-01 09:41:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:41:35 → 2026-05-01 09:46:35
+[2026-05-01 09:41:35] [INFO] --- Cron End ---
+[2026-05-01 09:46:34] [INFO] --- Cron Start ---
+[2026-05-01 09:46:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:46:34 → 2026-05-01 09:51:34
+[2026-05-01 09:46:34] [INFO] --- Cron End ---
+[2026-05-01 09:51:34] [INFO] --- Cron Start ---
+[2026-05-01 09:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:51:34 → 2026-05-01 09:56:34
+[2026-05-01 09:51:34] [INFO] --- Cron End ---
+[2026-05-01 09:56:34] [INFO] --- Cron Start ---
+[2026-05-01 09:56:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 09:56:34 → 2026-05-01 10:01:34
+[2026-05-01 09:56:34] [INFO] --- Cron End ---
+[2026-05-01 10:01:34] [INFO] --- Cron Start ---
+[2026-05-01 10:01:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:01:34 → 2026-05-01 10:06:34
+[2026-05-01 10:01:34] [INFO] --- Cron End ---
+[2026-05-01 10:06:34] [INFO] --- Cron Start ---
+[2026-05-01 10:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:06:34 → 2026-05-01 10:11:34
+[2026-05-01 10:06:34] [INFO] --- Cron End ---
+[2026-05-01 10:11:34] [INFO] --- Cron Start ---
+[2026-05-01 10:11:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:11:34 → 2026-05-01 10:16:34
+[2026-05-01 10:11:34] [INFO] --- Cron End ---
+[2026-05-01 10:16:34] [INFO] --- Cron Start ---
+[2026-05-01 10:16:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:16:34 → 2026-05-01 10:21:34
+[2026-05-01 10:16:34] [INFO] --- Cron End ---
+[2026-05-01 10:21:34] [INFO] --- Cron Start ---
+[2026-05-01 10:21:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:21:34 → 2026-05-01 10:26:34
+[2026-05-01 10:21:34] [INFO] --- Cron End ---
+[2026-05-01 10:26:34] [INFO] --- Cron Start ---
+[2026-05-01 10:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:26:34 → 2026-05-01 10:31:34
+[2026-05-01 10:26:34] [INFO] --- Cron End ---
+[2026-05-01 10:31:34] [INFO] --- Cron Start ---
+[2026-05-01 10:31:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:31:34 → 2026-05-01 10:36:34
+[2026-05-01 10:31:34] [INFO] --- Cron End ---
+[2026-05-01 10:36:34] [INFO] --- Cron Start ---
+[2026-05-01 10:36:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:36:34 → 2026-05-01 10:41:34
+[2026-05-01 10:36:34] [INFO] --- Cron End ---
+[2026-05-01 10:41:34] [INFO] --- Cron Start ---
+[2026-05-01 10:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:41:34 → 2026-05-01 10:46:34
+[2026-05-01 10:41:34] [INFO] --- Cron End ---
+[2026-05-01 10:46:34] [INFO] --- Cron Start ---
+[2026-05-01 10:46:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:46:34 → 2026-05-01 10:51:34
+[2026-05-01 10:46:34] [INFO] --- Cron End ---
+[2026-05-01 10:51:34] [INFO] --- Cron Start ---
+[2026-05-01 10:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:51:34 → 2026-05-01 10:56:34
+[2026-05-01 10:51:34] [INFO] --- Cron End ---
+[2026-05-01 10:56:34] [INFO] --- Cron Start ---
+[2026-05-01 10:56:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 10:56:34 → 2026-05-01 11:01:34
+[2026-05-01 10:56:34] [INFO] --- Cron End ---
+[2026-05-01 11:01:34] [INFO] --- Cron Start ---
+[2026-05-01 11:01:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:01:34 → 2026-05-01 11:06:34
+[2026-05-01 11:01:34] [INFO] --- Cron End ---
+[2026-05-01 11:06:34] [INFO] --- Cron Start ---
+[2026-05-01 11:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:06:34 → 2026-05-01 11:11:34
+[2026-05-01 11:06:34] [INFO] --- Cron End ---
+[2026-05-01 11:11:34] [INFO] --- Cron Start ---
+[2026-05-01 11:11:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:11:34 → 2026-05-01 11:16:34
+[2026-05-01 11:11:34] [INFO] --- Cron End ---
+[2026-05-01 11:16:34] [INFO] --- Cron Start ---
+[2026-05-01 11:16:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:16:34 → 2026-05-01 11:21:34
+[2026-05-01 11:16:34] [INFO] --- Cron End ---
+[2026-05-01 11:21:34] [INFO] --- Cron Start ---
+[2026-05-01 11:21:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:21:34 → 2026-05-01 11:26:34
+[2026-05-01 11:21:34] [INFO] --- Cron End ---
+[2026-05-01 11:26:34] [INFO] --- Cron Start ---
+[2026-05-01 11:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:26:34 → 2026-05-01 11:31:34
+[2026-05-01 11:26:34] [INFO] --- Cron End ---
+[2026-05-01 11:31:34] [INFO] --- Cron Start ---
+[2026-05-01 11:31:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:31:34 → 2026-05-01 11:36:34
+[2026-05-01 11:31:34] [INFO] --- Cron End ---
+[2026-05-01 11:36:34] [INFO] --- Cron Start ---
+[2026-05-01 11:36:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:36:34 → 2026-05-01 11:41:34
+[2026-05-01 11:36:34] [INFO] --- Cron End ---
+[2026-05-01 11:41:34] [INFO] --- Cron Start ---
+[2026-05-01 11:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:41:34 → 2026-05-01 11:46:34
+[2026-05-01 11:41:34] [INFO] --- Cron End ---
+[2026-05-01 11:46:34] [INFO] --- Cron Start ---
+[2026-05-01 11:46:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:46:34 → 2026-05-01 11:51:34
+[2026-05-01 11:46:34] [INFO] --- Cron End ---
+[2026-05-01 11:51:34] [INFO] --- Cron Start ---
+[2026-05-01 11:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 11:51:34 → 2026-05-01 11:56:34
+[2026-05-01 11:51:34] [INFO] --- Cron End ---
+[2026-05-01 11:56:34] [INFO] --- Cron Start ---
+[2026-05-01 11:56:34] [INFO] Generated 5 new reminder(s) for window 2026-05-01 11:56:34 → 2026-05-01 12:01:34
+[2026-05-01 11:56:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 11:56:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 11:56:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 11:56:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 11:56:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 11:56:35] [INFO] --- Cron End ---
+[2026-05-01 12:01:34] [INFO] --- Cron Start ---
+[2026-05-01 12:01:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:01:34 → 2026-05-01 12:06:34
+[2026-05-01 12:01:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:01:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:01:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:01:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:01:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:01:35] [INFO] --- Cron End ---
+[2026-05-01 12:06:34] [INFO] --- Cron Start ---
+[2026-05-01 12:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:06:34 → 2026-05-01 12:11:34
+[2026-05-01 12:06:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:06:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:06:34] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:06:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:06:35] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 12:06:35] [INFO] --- Cron End ---
+[2026-05-01 12:11:34] [INFO] --- Cron Start ---
+[2026-05-01 12:11:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:11:34 → 2026-05-01 12:16:34
+[2026-05-01 12:11:34] [INFO] --- Cron End ---
+[2026-05-01 12:16:36] [INFO] --- Cron Start ---
+[2026-05-01 12:16:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:16:36 → 2026-05-01 12:21:36
+[2026-05-01 12:16:36] [INFO] --- Cron End ---
+[2026-05-01 12:21:34] [INFO] --- Cron Start ---
+[2026-05-01 12:21:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:21:34 → 2026-05-01 12:26:34
+[2026-05-01 12:21:34] [INFO] --- Cron End ---
+[2026-05-01 12:26:34] [INFO] --- Cron Start ---
+[2026-05-01 12:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:26:34 → 2026-05-01 12:31:34
+[2026-05-01 12:26:34] [INFO] --- Cron End ---
+[2026-05-01 12:31:34] [INFO] --- Cron Start ---
+[2026-05-01 12:31:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:31:34 → 2026-05-01 12:36:34
+[2026-05-01 12:31:34] [INFO] --- Cron End ---
+[2026-05-01 12:36:35] [INFO] --- Cron Start ---
+[2026-05-01 12:36:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:36:35 → 2026-05-01 12:41:35
+[2026-05-01 12:36:35] [INFO] --- Cron End ---
+[2026-05-01 12:41:34] [INFO] --- Cron Start ---
+[2026-05-01 12:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:41:34 → 2026-05-01 12:46:34
+[2026-05-01 12:41:34] [INFO] --- Cron End ---
+[2026-05-01 12:46:34] [INFO] --- Cron Start ---
+[2026-05-01 12:46:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:46:34 → 2026-05-01 12:51:34
+[2026-05-01 12:46:34] [INFO] --- Cron End ---
+[2026-05-01 12:51:34] [INFO] --- Cron Start ---
+[2026-05-01 12:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 12:51:34 → 2026-05-01 12:56:34
+[2026-05-01 12:51:34] [INFO] --- Cron End ---
+[2026-05-01 13:16:44] [INFO] --- Cron Start ---
+[2026-05-01 13:16:46] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:16:44 → 2026-05-01 13:21:44
+[2026-05-01 13:16:46] [INFO] --- Cron End ---
+[2026-05-01 13:21:35] [INFO] --- Cron Start ---
+[2026-05-01 13:21:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:21:35 → 2026-05-01 13:26:35
+[2026-05-01 13:21:35] [INFO] --- Cron End ---
+[2026-05-01 13:27:29] [INFO] --- Cron Start ---
+[2026-05-01 13:27:30] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:27:29 → 2026-05-01 13:32:29
+[2026-05-01 13:27:30] [INFO] --- Cron End ---
+[2026-05-01 13:31:45] [INFO] --- Cron Start ---
+[2026-05-01 13:31:45] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:31:45 → 2026-05-01 13:36:45
+[2026-05-01 13:31:45] [INFO] --- Cron End ---
+[2026-05-01 13:36:36] [INFO] --- Cron Start ---
+[2026-05-01 13:36:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:36:37 → 2026-05-01 13:41:37
+[2026-05-01 13:36:37] [INFO] --- Cron End ---
+[2026-05-01 13:41:37] [INFO] --- Cron Start ---
+[2026-05-01 13:41:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:41:37 → 2026-05-01 13:46:37
+[2026-05-01 13:41:37] [INFO] --- Cron End ---
+[2026-05-01 13:46:37] [INFO] --- Cron Start ---
+[2026-05-01 13:46:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:46:37 → 2026-05-01 13:51:37
+[2026-05-01 13:46:37] [INFO] --- Cron End ---
+[2026-05-01 13:51:36] [INFO] --- Cron Start ---
+[2026-05-01 13:51:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 13:51:36 → 2026-05-01 13:56:36
+[2026-05-01 13:51:36] [INFO] --- Cron End ---
+[2026-05-01 13:56:42] [INFO] --- Cron Start ---
+[2026-05-01 13:56:42] [INFO] Generated 5 new reminder(s) for window 2026-05-01 13:56:42 → 2026-05-01 14:01:42
+[2026-05-01 13:56:44] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 13:56:45] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 13:56:47] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 13:56:48] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 13:56:49] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 13:56:49] [INFO] --- Cron End ---
+[2026-05-01 14:01:37] [INFO] --- Cron Start ---
+[2026-05-01 14:01:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:01:37 → 2026-05-01 14:06:37
+[2026-05-01 14:01:38] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:01:40] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:01:42] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:01:44] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:01:46] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:01:46] [INFO] --- Cron End ---
+[2026-05-01 14:06:35] [INFO] --- Cron Start ---
+[2026-05-01 14:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:06:35 → 2026-05-01 14:11:35
+[2026-05-01 14:06:37] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:06:38] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:06:40] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:06:41] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:06:42] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 14:06:42] [INFO] --- Cron End ---
+[2026-05-01 14:11:35] [INFO] --- Cron Start ---
+[2026-05-01 14:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:11:35 → 2026-05-01 14:16:35
+[2026-05-01 14:11:35] [INFO] --- Cron End ---
+[2026-05-01 14:16:35] [INFO] --- Cron Start ---
+[2026-05-01 14:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:16:35 → 2026-05-01 14:21:35
+[2026-05-01 14:16:36] [INFO] --- Cron End ---
+[2026-05-01 14:21:36] [INFO] --- Cron Start ---
+[2026-05-01 14:21:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:21:36 → 2026-05-01 14:26:36
+[2026-05-01 14:21:36] [INFO] --- Cron End ---
+[2026-05-01 14:26:36] [INFO] --- Cron Start ---
+[2026-05-01 14:26:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:26:36 → 2026-05-01 14:31:36
+[2026-05-01 14:26:36] [INFO] --- Cron End ---
+[2026-05-01 14:31:35] [INFO] --- Cron Start ---
+[2026-05-01 14:31:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:31:35 → 2026-05-01 14:36:35
+[2026-05-01 14:31:35] [INFO] --- Cron End ---
+[2026-05-01 14:36:36] [INFO] --- Cron Start ---
+[2026-05-01 14:36:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:36:36 → 2026-05-01 14:41:36
+[2026-05-01 14:36:36] [INFO] --- Cron End ---
+[2026-05-01 14:41:34] [INFO] --- Cron Start ---
+[2026-05-01 14:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 14:41:34 → 2026-05-01 14:46:34
+[2026-05-01 14:41:34] [INFO] --- Cron End ---
+[2026-05-01 15:35:18] [INFO] --- Cron Start ---
+[2026-05-01 15:35:18] [INFO] Generated 0 new reminder(s) for window 2026-05-01 15:35:18 → 2026-05-01 15:40:18
+[2026-05-01 15:35:21] [INFO] --- Cron End ---
+[2026-05-01 15:36:36] [INFO] --- Cron Start ---
+[2026-05-01 15:36:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 15:36:36 → 2026-05-01 15:41:36
+[2026-05-01 15:36:36] [INFO] --- Cron End ---
+[2026-05-01 15:41:39] [INFO] --- Cron Start ---
+[2026-05-01 15:41:39] [INFO] Generated 0 new reminder(s) for window 2026-05-01 15:41:39 → 2026-05-01 15:46:39
+[2026-05-01 15:41:39] [INFO] --- Cron End ---
+[2026-05-01 15:47:21] [INFO] --- Cron Start ---
+[2026-05-01 15:47:21] [INFO] Generated 0 new reminder(s) for window 2026-05-01 15:47:21 → 2026-05-01 15:52:21
+[2026-05-01 15:47:21] [INFO] --- Cron End ---
+[2026-05-01 15:51:35] [INFO] --- Cron Start ---
+[2026-05-01 15:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 15:51:35 → 2026-05-01 15:56:35
+[2026-05-01 15:51:35] [INFO] --- Cron End ---
+[2026-05-01 15:56:34] [INFO] --- Cron Start ---
+[2026-05-01 15:56:35] [INFO] Generated 5 new reminder(s) for window 2026-05-01 15:56:34 → 2026-05-01 16:01:34
+[2026-05-01 15:56:42] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 15:56:45] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 15:56:47] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 15:56:48] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 15:56:52] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 15:56:52] [INFO] --- Cron End ---
+[2026-05-01 16:01:35] [INFO] --- Cron Start ---
+[2026-05-01 16:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:01:35 → 2026-05-01 16:06:35
+[2026-05-01 16:01:40] [INFO] Sent via AT to 256700765387
+[2026-05-01 16:01:42] [INFO] Sent via AT to 256700765387
+[2026-05-01 16:01:43] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-01 16:01:45] [INFO] Sent via AT to 256700765387
+[2026-05-01 16:01:46] [INFO] Sent via AT to 256700765387
+[2026-05-01 16:01:46] [INFO] --- Cron End ---
+[2026-05-01 16:06:35] [INFO] --- Cron Start ---
+[2026-05-01 16:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:06:35 → 2026-05-01 16:11:35
+[2026-05-01 16:06:36] [INFO] Sent via AT to 256700765387
+[2026-05-01 16:06:36] [INFO] --- Cron End ---
+[2026-05-01 16:11:36] [INFO] --- Cron Start ---
+[2026-05-01 16:11:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:11:36 → 2026-05-01 16:16:36
+[2026-05-01 16:11:36] [INFO] --- Cron End ---
+[2026-05-01 16:16:35] [INFO] --- Cron Start ---
+[2026-05-01 16:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:16:35 → 2026-05-01 16:21:35
+[2026-05-01 16:16:36] [INFO] --- Cron End ---
+[2026-05-01 16:21:41] [INFO] --- Cron Start ---
+[2026-05-01 16:21:41] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:21:41 → 2026-05-01 16:26:41
+[2026-05-01 16:21:41] [INFO] --- Cron End ---
+[2026-05-01 16:26:37] [INFO] --- Cron Start ---
+[2026-05-01 16:26:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:26:37 → 2026-05-01 16:31:37
+[2026-05-01 16:26:37] [INFO] --- Cron End ---
+[2026-05-01 16:31:36] [INFO] --- Cron Start ---
+[2026-05-01 16:31:36] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:31:36 → 2026-05-01 16:36:36
+[2026-05-01 16:31:36] [INFO] --- Cron End ---
+[2026-05-01 16:36:37] [INFO] --- Cron Start ---
+[2026-05-01 16:36:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:36:37 → 2026-05-01 16:41:37
+[2026-05-01 16:36:37] [INFO] --- Cron End ---
+[2026-05-01 16:41:34] [INFO] --- Cron Start ---
+[2026-05-01 16:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:41:34 → 2026-05-01 16:46:34
+[2026-05-01 16:41:34] [INFO] --- Cron End ---
+[2026-05-01 16:46:35] [INFO] --- Cron Start ---
+[2026-05-01 16:46:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:46:35 → 2026-05-01 16:51:35
+[2026-05-01 16:46:35] [INFO] --- Cron End ---
+[2026-05-01 16:51:35] [INFO] --- Cron Start ---
+[2026-05-01 16:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:51:35 → 2026-05-01 16:56:35
+[2026-05-01 16:51:35] [INFO] --- Cron End ---
+[2026-05-01 16:56:35] [INFO] --- Cron Start ---
+[2026-05-01 16:56:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 16:56:35 → 2026-05-01 17:01:35
+[2026-05-01 16:56:35] [INFO] --- Cron End ---
+[2026-05-01 17:01:39] [INFO] --- Cron Start ---
+[2026-05-01 17:01:39] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:01:39 → 2026-05-01 17:06:39
+[2026-05-01 17:01:39] [INFO] --- Cron End ---
+[2026-05-01 17:06:35] [INFO] --- Cron Start ---
+[2026-05-01 17:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:06:35 → 2026-05-01 17:11:35
+[2026-05-01 17:06:35] [INFO] --- Cron End ---
+[2026-05-01 17:11:37] [INFO] --- Cron Start ---
+[2026-05-01 17:11:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:11:37 → 2026-05-01 17:16:37
+[2026-05-01 17:11:37] [INFO] --- Cron End ---
+[2026-05-01 17:16:35] [INFO] --- Cron Start ---
+[2026-05-01 17:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:16:35 → 2026-05-01 17:21:35
+[2026-05-01 17:16:35] [INFO] --- Cron End ---
+[2026-05-01 17:21:37] [INFO] --- Cron Start ---
+[2026-05-01 17:21:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:21:37 → 2026-05-01 17:26:37
+[2026-05-01 17:21:37] [INFO] --- Cron End ---
+[2026-05-01 17:26:35] [INFO] --- Cron Start ---
+[2026-05-01 17:26:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:26:35 → 2026-05-01 17:31:35
+[2026-05-01 17:26:35] [INFO] --- Cron End ---
+[2026-05-01 17:31:42] [INFO] --- Cron Start ---
+[2026-05-01 17:31:43] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:31:43 → 2026-05-01 17:36:43
+[2026-05-01 17:31:43] [INFO] --- Cron End ---
+[2026-05-01 17:36:37] [INFO] --- Cron Start ---
+[2026-05-01 17:36:37] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:36:37 → 2026-05-01 17:41:37
+[2026-05-01 17:36:37] [INFO] --- Cron End ---
+[2026-05-01 17:41:35] [INFO] --- Cron Start ---
+[2026-05-01 17:41:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:41:35 → 2026-05-01 17:46:35
+[2026-05-01 17:41:35] [INFO] --- Cron End ---
+[2026-05-01 17:46:35] [INFO] --- Cron Start ---
+[2026-05-01 17:46:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:46:35 → 2026-05-01 17:51:35
+[2026-05-01 17:46:35] [INFO] --- Cron End ---
+[2026-05-01 17:51:34] [INFO] --- Cron Start ---
+[2026-05-01 17:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:51:34 → 2026-05-01 17:56:34
+[2026-05-01 17:51:34] [INFO] --- Cron End ---
+[2026-05-01 17:56:34] [INFO] --- Cron Start ---
+[2026-05-01 17:56:34] [INFO] Generated 0 new reminder(s) for window 2026-05-01 17:56:34 → 2026-05-01 18:01:34
+[2026-05-01 17:56:35] [INFO] --- Cron End ---
+[2026-05-01 18:01:35] [INFO] --- Cron Start ---
+[2026-05-01 18:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 18:01:35 → 2026-05-01 18:06:35
+[2026-05-01 18:01:35] [INFO] --- Cron End ---
+[2026-05-01 18:06:35] [INFO] --- Cron Start ---
+[2026-05-01 18:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 18:06:35 → 2026-05-01 18:11:35
+[2026-05-01 18:06:35] [INFO] --- Cron End ---
+[2026-05-01 18:11:35] [INFO] --- Cron Start ---
+[2026-05-01 18:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-01 18:11:35 → 2026-05-01 18:16:35
+[2026-05-01 18:11:36] [INFO] --- Cron End ---
+[2026-05-02 15:26:23] [INFO] --- Cron Start ---
+[2026-05-02 15:26:23] [INFO] Generated 0 new reminder(s) for window 2026-05-02 15:26:23 → 2026-05-02 15:31:23
+[2026-05-02 15:26:23] [INFO] --- Cron End ---
+[2026-05-02 15:26:34] [INFO] --- Cron Start ---
+[2026-05-02 15:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 15:26:34 → 2026-05-02 15:31:34
+[2026-05-02 15:26:34] [INFO] --- Cron End ---
+[2026-05-02 15:31:36] [INFO] --- Cron Start ---
+[2026-05-02 15:31:36] [INFO] Generated 0 new reminder(s) for window 2026-05-02 15:31:36 → 2026-05-02 15:36:36
+[2026-05-02 15:31:36] [INFO] --- Cron End ---
+[2026-05-02 15:36:35] [INFO] --- Cron Start ---
+[2026-05-02 15:36:35] [INFO] Generated 0 new reminder(s) for window 2026-05-02 15:36:35 → 2026-05-02 15:41:35
+[2026-05-02 15:36:35] [INFO] --- Cron End ---
+[2026-05-02 15:47:50] [INFO] --- Cron Start ---
+[2026-05-02 15:47:52] [INFO] Generated 0 new reminder(s) for window 2026-05-02 15:47:52 → 2026-05-02 15:52:52
+[2026-05-02 15:47:52] [INFO] --- Cron End ---
+[2026-05-02 15:52:57] [INFO] --- Cron Start ---
+[2026-05-02 15:53:00] [INFO] Generated 0 new reminder(s) for window 2026-05-02 15:53:00 → 2026-05-02 15:58:00
+[2026-05-02 15:53:00] [INFO] --- Cron End ---
+[2026-05-02 15:57:28] [INFO] --- Cron Start ---
+[2026-05-02 15:57:31] [INFO] Generated 5 new reminder(s) for window 2026-05-02 15:57:31 → 2026-05-02 16:02:31
+[2026-05-02 15:57:32] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 15:57:32] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 15:57:32] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 15:57:32] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 15:57:33] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 15:57:33] [INFO] --- Cron End ---
+[2026-05-02 16:02:59] [INFO] --- Cron Start ---
+[2026-05-02 16:03:00] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:03:00 → 2026-05-02 16:08:00
+[2026-05-02 16:03:00] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:03:00] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:03:00] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:03:00] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:03:01] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:03:01] [INFO] --- Cron End ---
+[2026-05-02 16:06:45] [INFO] --- Cron Start ---
+[2026-05-02 16:06:45] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:06:45 → 2026-05-02 16:11:45
+[2026-05-02 16:06:45] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:06:45] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:06:45] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:06:46] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:06:46] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-02 16:06:46] [INFO] --- Cron End ---
+[2026-05-02 16:11:43] [INFO] --- Cron Start ---
+[2026-05-02 16:11:43] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:11:43 → 2026-05-02 16:16:43
+[2026-05-02 16:11:43] [INFO] --- Cron End ---
+[2026-05-02 16:16:34] [INFO] --- Cron Start ---
+[2026-05-02 16:16:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:16:34 → 2026-05-02 16:21:34
+[2026-05-02 16:16:34] [INFO] --- Cron End ---
+[2026-05-02 16:21:34] [INFO] --- Cron Start ---
+[2026-05-02 16:21:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:21:34 → 2026-05-02 16:26:34
+[2026-05-02 16:21:34] [INFO] --- Cron End ---
+[2026-05-02 16:26:34] [INFO] --- Cron Start ---
+[2026-05-02 16:26:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:26:34 → 2026-05-02 16:31:34
+[2026-05-02 16:26:34] [INFO] --- Cron End ---
+[2026-05-02 16:31:34] [INFO] --- Cron Start ---
+[2026-05-02 16:31:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:31:34 → 2026-05-02 16:36:34
+[2026-05-02 16:31:34] [INFO] --- Cron End ---
+[2026-05-02 16:36:34] [INFO] --- Cron Start ---
+[2026-05-02 16:36:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:36:34 → 2026-05-02 16:41:34
+[2026-05-02 16:36:34] [INFO] --- Cron End ---
+[2026-05-02 16:41:34] [INFO] --- Cron Start ---
+[2026-05-02 16:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:41:34 → 2026-05-02 16:46:34
+[2026-05-02 16:41:34] [INFO] --- Cron End ---
+[2026-05-02 16:46:34] [INFO] --- Cron Start ---
+[2026-05-02 16:46:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:46:34 → 2026-05-02 16:51:34
+[2026-05-02 16:46:34] [INFO] --- Cron End ---
+[2026-05-02 16:51:34] [INFO] --- Cron Start ---
+[2026-05-02 16:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:51:34 → 2026-05-02 16:56:34
+[2026-05-02 16:51:34] [INFO] --- Cron End ---
+[2026-05-02 16:56:34] [INFO] --- Cron Start ---
+[2026-05-02 16:56:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 16:56:34 → 2026-05-02 17:01:34
+[2026-05-02 16:56:34] [INFO] --- Cron End ---
+[2026-05-02 17:01:34] [INFO] --- Cron Start ---
+[2026-05-02 17:01:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 17:01:34 → 2026-05-02 17:06:34
+[2026-05-02 17:01:34] [INFO] --- Cron End ---
+[2026-05-02 17:06:34] [INFO] --- Cron Start ---
+[2026-05-02 17:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 17:06:34 → 2026-05-02 17:11:34
+[2026-05-02 17:06:34] [INFO] --- Cron End ---
+[2026-05-02 17:11:35] [INFO] --- Cron Start ---
+[2026-05-02 17:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-02 17:11:35 → 2026-05-02 17:16:35
+[2026-05-02 17:11:35] [INFO] --- Cron End ---
+[2026-05-02 17:16:34] [INFO] --- Cron Start ---
+[2026-05-02 17:16:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 17:16:34 → 2026-05-02 17:21:34
+[2026-05-02 17:16:34] [INFO] --- Cron End ---
+[2026-05-02 17:21:34] [INFO] --- Cron Start ---
+[2026-05-02 17:21:34] [INFO] Generated 0 new reminder(s) for window 2026-05-02 17:21:34 → 2026-05-02 17:26:34
+[2026-05-02 17:21:34] [INFO] --- Cron End ---
+[2026-05-03 08:45:30] [INFO] --- Cron Start ---
+[2026-05-03 08:45:30] [INFO] Generated 0 new reminder(s) for window 2026-05-03 08:45:30 → 2026-05-03 08:50:30
+[2026-05-03 08:45:30] [INFO] --- Cron End ---
+[2026-05-03 08:46:36] [INFO] --- Cron Start ---
+[2026-05-03 08:46:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 08:46:36 → 2026-05-03 08:51:36
+[2026-05-03 08:46:36] [INFO] --- Cron End ---
+[2026-05-03 08:51:35] [INFO] --- Cron Start ---
+[2026-05-03 08:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 08:51:35 → 2026-05-03 08:56:35
+[2026-05-03 08:51:35] [INFO] --- Cron End ---
+[2026-05-03 08:56:35] [INFO] --- Cron Start ---
+[2026-05-03 08:56:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 08:56:35 → 2026-05-03 09:01:35
+[2026-05-03 08:56:35] [INFO] --- Cron End ---
+[2026-05-03 09:01:35] [INFO] --- Cron Start ---
+[2026-05-03 09:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:01:35 → 2026-05-03 09:06:35
+[2026-05-03 09:01:35] [INFO] --- Cron End ---
+[2026-05-03 09:06:35] [INFO] --- Cron Start ---
+[2026-05-03 09:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:06:35 → 2026-05-03 09:11:35
+[2026-05-03 09:06:35] [INFO] --- Cron End ---
+[2026-05-03 09:11:35] [INFO] --- Cron Start ---
+[2026-05-03 09:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:11:35 → 2026-05-03 09:16:35
+[2026-05-03 09:11:35] [INFO] --- Cron End ---
+[2026-05-03 09:16:50] [INFO] --- Cron Start ---
+[2026-05-03 09:16:50] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:16:50 → 2026-05-03 09:21:50
+[2026-05-03 09:16:50] [INFO] --- Cron End ---
+[2026-05-03 09:24:49] [INFO] --- Cron Start ---
+[2026-05-03 09:24:50] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:24:50 → 2026-05-03 09:29:50
+[2026-05-03 09:24:50] [INFO] --- Cron End ---
+[2026-05-03 09:26:50] [INFO] --- Cron Start ---
+[2026-05-03 09:26:51] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:26:51 → 2026-05-03 09:31:51
+[2026-05-03 09:26:51] [INFO] --- Cron End ---
+[2026-05-03 09:31:54] [INFO] --- Cron Start ---
+[2026-05-03 09:31:54] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:31:54 → 2026-05-03 09:36:54
+[2026-05-03 09:31:54] [INFO] --- Cron End ---
+[2026-05-03 09:36:45] [INFO] --- Cron Start ---
+[2026-05-03 09:36:45] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:36:45 → 2026-05-03 09:41:45
+[2026-05-03 09:36:45] [INFO] --- Cron End ---
+[2026-05-03 09:41:48] [INFO] --- Cron Start ---
+[2026-05-03 09:41:48] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:41:48 → 2026-05-03 09:46:48
+[2026-05-03 09:41:48] [INFO] --- Cron End ---
+[2026-05-03 09:46:41] [INFO] --- Cron Start ---
+[2026-05-03 09:46:41] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:46:41 → 2026-05-03 09:51:41
+[2026-05-03 09:46:41] [INFO] --- Cron End ---
+[2026-05-03 09:51:34] [INFO] --- Cron Start ---
+[2026-05-03 09:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:51:34 → 2026-05-03 09:56:34
+[2026-05-03 09:51:34] [INFO] --- Cron End ---
+[2026-05-03 09:56:37] [INFO] --- Cron Start ---
+[2026-05-03 09:56:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 09:56:37 → 2026-05-03 10:01:37
+[2026-05-03 09:56:37] [INFO] --- Cron End ---
+[2026-05-03 10:01:39] [INFO] --- Cron Start ---
+[2026-05-03 10:01:39] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:01:39 → 2026-05-03 10:06:39
+[2026-05-03 10:01:39] [INFO] --- Cron End ---
+[2026-05-03 10:06:42] [INFO] --- Cron Start ---
+[2026-05-03 10:06:42] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:06:42 → 2026-05-03 10:11:42
+[2026-05-03 10:06:42] [INFO] --- Cron End ---
+[2026-05-03 10:11:40] [INFO] --- Cron Start ---
+[2026-05-03 10:11:40] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:11:40 → 2026-05-03 10:16:40
+[2026-05-03 10:11:40] [INFO] --- Cron End ---
+[2026-05-03 10:16:38] [INFO] --- Cron Start ---
+[2026-05-03 10:16:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:16:38 → 2026-05-03 10:21:38
+[2026-05-03 10:16:38] [INFO] --- Cron End ---
+[2026-05-03 10:21:36] [INFO] --- Cron Start ---
+[2026-05-03 10:21:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:21:36 → 2026-05-03 10:26:36
+[2026-05-03 10:21:36] [INFO] --- Cron End ---
+[2026-05-03 10:26:36] [INFO] --- Cron Start ---
+[2026-05-03 10:26:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:26:36 → 2026-05-03 10:31:36
+[2026-05-03 10:26:36] [INFO] --- Cron End ---
+[2026-05-03 10:31:37] [INFO] --- Cron Start ---
+[2026-05-03 10:31:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:31:37 → 2026-05-03 10:36:37
+[2026-05-03 10:31:37] [INFO] --- Cron End ---
+[2026-05-03 10:36:35] [INFO] --- Cron Start ---
+[2026-05-03 10:36:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:36:35 → 2026-05-03 10:41:35
+[2026-05-03 10:36:35] [INFO] --- Cron End ---
+[2026-05-03 10:41:35] [INFO] --- Cron Start ---
+[2026-05-03 10:41:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:41:35 → 2026-05-03 10:46:35
+[2026-05-03 10:41:35] [INFO] --- Cron End ---
+[2026-05-03 10:46:35] [INFO] --- Cron Start ---
+[2026-05-03 10:46:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:46:35 → 2026-05-03 10:51:35
+[2026-05-03 10:46:35] [INFO] --- Cron End ---
+[2026-05-03 10:51:35] [INFO] --- Cron Start ---
+[2026-05-03 10:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:51:35 → 2026-05-03 10:56:35
+[2026-05-03 10:51:35] [INFO] --- Cron End ---
+[2026-05-03 10:56:43] [INFO] --- Cron Start ---
+[2026-05-03 10:56:44] [INFO] Generated 0 new reminder(s) for window 2026-05-03 10:56:44 → 2026-05-03 11:01:44
+[2026-05-03 10:56:44] [INFO] --- Cron End ---
+[2026-05-03 11:01:35] [INFO] --- Cron Start ---
+[2026-05-03 11:01:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 11:01:35 → 2026-05-03 11:06:35
+[2026-05-03 11:01:35] [INFO] --- Cron End ---
+[2026-05-03 11:06:36] [INFO] --- Cron Start ---
+[2026-05-03 11:06:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 11:06:36 → 2026-05-03 11:11:36
+[2026-05-03 11:06:36] [INFO] --- Cron End ---
+[2026-05-03 11:11:37] [INFO] --- Cron Start ---
+[2026-05-03 11:11:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 11:11:38 → 2026-05-03 11:16:38
+[2026-05-03 11:11:38] [INFO] --- Cron End ---
+[2026-05-03 11:16:37] [INFO] --- Cron Start ---
+[2026-05-03 11:16:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 11:16:37 → 2026-05-03 11:21:37
+[2026-05-03 11:16:37] [INFO] --- Cron End ---
+[2026-05-03 11:21:40] [INFO] --- Cron Start ---
+[2026-05-03 11:21:41] [INFO] Generated 0 new reminder(s) for window 2026-05-03 11:21:41 → 2026-05-03 11:26:41
+[2026-05-03 11:21:41] [INFO] --- Cron End ---
+[2026-05-03 13:11:38] [INFO] --- Cron Start ---
+[2026-05-03 13:11:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:11:38 → 2026-05-03 13:16:38
+[2026-05-03 13:11:38] [INFO] --- Cron End ---
+[2026-05-03 13:16:35] [INFO] --- Cron Start ---
+[2026-05-03 13:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:16:35 → 2026-05-03 13:21:35
+[2026-05-03 13:16:35] [INFO] --- Cron End ---
+[2026-05-03 13:21:37] [INFO] --- Cron Start ---
+[2026-05-03 13:21:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:21:37 → 2026-05-03 13:26:37
+[2026-05-03 13:21:37] [INFO] --- Cron End ---
+[2026-05-03 13:26:37] [INFO] --- Cron Start ---
+[2026-05-03 13:26:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:26:37 → 2026-05-03 13:31:37
+[2026-05-03 13:26:37] [INFO] --- Cron End ---
+[2026-05-03 13:31:39] [INFO] --- Cron Start ---
+[2026-05-03 13:31:39] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:31:39 → 2026-05-03 13:36:39
+[2026-05-03 13:31:39] [INFO] --- Cron End ---
+[2026-05-03 13:36:36] [INFO] --- Cron Start ---
+[2026-05-03 13:36:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:36:36 → 2026-05-03 13:41:36
+[2026-05-03 13:36:36] [INFO] --- Cron End ---
+[2026-05-03 13:41:39] [INFO] --- Cron Start ---
+[2026-05-03 13:41:39] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:41:39 → 2026-05-03 13:46:39
+[2026-05-03 13:41:39] [INFO] --- Cron End ---
+[2026-05-03 13:46:36] [INFO] --- Cron Start ---
+[2026-05-03 13:46:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:46:36 → 2026-05-03 13:51:36
+[2026-05-03 13:46:36] [INFO] --- Cron End ---
+[2026-05-03 13:51:35] [INFO] --- Cron Start ---
+[2026-05-03 13:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 13:51:35 → 2026-05-03 13:56:35
+[2026-05-03 13:51:35] [INFO] --- Cron End ---
+[2026-05-03 13:56:38] [INFO] --- Cron Start ---
+[2026-05-03 13:56:39] [INFO] Generated 5 new reminder(s) for window 2026-05-03 13:56:38 → 2026-05-03 14:01:38
+[2026-05-03 13:56:41] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 13:56:42] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 13:56:43] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 13:56:44] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 13:56:44] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 13:56:44] [INFO] --- Cron End ---
+[2026-05-03 14:01:42] [INFO] --- Cron Start ---
+[2026-05-03 14:01:42] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:01:42 → 2026-05-03 14:06:42
+[2026-05-03 14:01:43] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:01:44] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:01:45] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:01:46] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:01:46] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:01:46] [INFO] --- Cron End ---
+[2026-05-03 14:06:36] [INFO] --- Cron Start ---
+[2026-05-03 14:06:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:06:36 → 2026-05-03 14:11:36
+[2026-05-03 14:06:37] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:06:38] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:06:39] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:06:40] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:06:40] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-03 14:06:40] [INFO] --- Cron End ---
+[2026-05-03 14:11:34] [INFO] --- Cron Start ---
+[2026-05-03 14:11:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:11:34 → 2026-05-03 14:16:34
+[2026-05-03 14:11:34] [INFO] --- Cron End ---
+[2026-05-03 14:16:35] [INFO] --- Cron Start ---
+[2026-05-03 14:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:16:35 → 2026-05-03 14:21:35
+[2026-05-03 14:16:35] [INFO] --- Cron End ---
+[2026-05-03 14:21:35] [INFO] --- Cron Start ---
+[2026-05-03 14:21:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:21:35 → 2026-05-03 14:26:35
+[2026-05-03 14:21:35] [INFO] --- Cron End ---
+[2026-05-03 14:26:35] [INFO] --- Cron Start ---
+[2026-05-03 14:26:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:26:35 → 2026-05-03 14:31:35
+[2026-05-03 14:26:35] [INFO] --- Cron End ---
+[2026-05-03 14:31:39] [INFO] --- Cron Start ---
+[2026-05-03 14:31:39] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:31:39 → 2026-05-03 14:36:39
+[2026-05-03 14:31:42] [INFO] --- Cron End ---
+[2026-05-03 14:36:35] [INFO] --- Cron Start ---
+[2026-05-03 14:36:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:36:35 → 2026-05-03 14:41:35
+[2026-05-03 14:36:35] [INFO] --- Cron End ---
+[2026-05-03 14:41:35] [INFO] --- Cron Start ---
+[2026-05-03 14:41:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:41:35 → 2026-05-03 14:46:35
+[2026-05-03 14:41:35] [INFO] --- Cron End ---
+[2026-05-03 14:46:36] [INFO] --- Cron Start ---
+[2026-05-03 14:46:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:46:36 → 2026-05-03 14:51:36
+[2026-05-03 14:46:36] [INFO] --- Cron End ---
+[2026-05-03 14:51:36] [INFO] --- Cron Start ---
+[2026-05-03 14:51:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:51:36 → 2026-05-03 14:56:36
+[2026-05-03 14:51:36] [INFO] --- Cron End ---
+[2026-05-03 14:56:35] [INFO] --- Cron Start ---
+[2026-05-03 14:56:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 14:56:35 → 2026-05-03 15:01:35
+[2026-05-03 14:56:35] [INFO] --- Cron End ---
+[2026-05-03 15:02:19] [INFO] --- Cron Start ---
+[2026-05-03 15:02:19] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:02:19 → 2026-05-03 15:07:19
+[2026-05-03 15:02:19] [INFO] --- Cron End ---
+[2026-05-03 15:06:37] [INFO] --- Cron Start ---
+[2026-05-03 15:06:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:06:37 → 2026-05-03 15:11:37
+[2026-05-03 15:06:38] [INFO] --- Cron End ---
+[2026-05-03 15:11:36] [INFO] --- Cron Start ---
+[2026-05-03 15:11:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:11:36 → 2026-05-03 15:16:36
+[2026-05-03 15:11:36] [INFO] --- Cron End ---
+[2026-05-03 15:16:38] [INFO] --- Cron Start ---
+[2026-05-03 15:16:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:16:38 → 2026-05-03 15:21:38
+[2026-05-03 15:16:38] [INFO] --- Cron End ---
+[2026-05-03 15:21:39] [INFO] --- Cron Start ---
+[2026-05-03 15:21:39] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:21:39 → 2026-05-03 15:26:39
+[2026-05-03 15:21:39] [INFO] --- Cron End ---
+[2026-05-03 15:27:26] [INFO] --- Cron Start ---
+[2026-05-03 15:27:26] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:27:26 → 2026-05-03 15:32:26
+[2026-05-03 15:27:26] [INFO] --- Cron End ---
+[2026-05-03 15:31:36] [INFO] --- Cron Start ---
+[2026-05-03 15:31:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:31:36 → 2026-05-03 15:36:36
+[2026-05-03 15:31:36] [INFO] --- Cron End ---
+[2026-05-03 15:36:34] [INFO] --- Cron Start ---
+[2026-05-03 15:36:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:36:34 → 2026-05-03 15:41:34
+[2026-05-03 15:36:34] [INFO] --- Cron End ---
+[2026-05-03 15:41:34] [INFO] --- Cron Start ---
+[2026-05-03 15:41:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:41:34 → 2026-05-03 15:46:34
+[2026-05-03 15:41:34] [INFO] --- Cron End ---
+[2026-05-03 15:46:38] [INFO] --- Cron Start ---
+[2026-05-03 15:46:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:46:38 → 2026-05-03 15:51:38
+[2026-05-03 15:46:38] [INFO] --- Cron End ---
+[2026-05-03 15:51:34] [INFO] --- Cron Start ---
+[2026-05-03 15:51:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 15:51:35 → 2026-05-03 15:56:35
+[2026-05-03 15:51:35] [INFO] --- Cron End ---
+[2026-05-03 15:56:34] [INFO] --- Cron Start ---
+[2026-05-03 15:56:35] [INFO] Generated 5 new reminder(s) for window 2026-05-03 15:56:34 → 2026-05-03 16:01:34
+[2026-05-03 15:56:38] [INFO] Sent via AT to 256700765387
+[2026-05-03 15:56:39] [INFO] Sent via AT to 256700765387
+[2026-05-03 15:56:40] [INFO] Sent via AT to 256700765387
+[2026-05-03 15:56:42] [INFO] Sent via AT to 256700765387
+[2026-05-03 15:56:43] [INFO] Sent via AT to 256700765387
+[2026-05-03 15:56:43] [INFO] --- Cron End ---
+[2026-05-03 16:01:34] [INFO] --- Cron Start ---
+[2026-05-03 16:01:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:01:34 → 2026-05-03 16:06:34
+[2026-05-03 16:01:34] [INFO] --- Cron End ---
+[2026-05-03 16:06:34] [INFO] --- Cron Start ---
+[2026-05-03 16:06:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:06:34 → 2026-05-03 16:11:34
+[2026-05-03 16:06:34] [INFO] --- Cron End ---
+[2026-05-03 16:11:34] [INFO] --- Cron Start ---
+[2026-05-03 16:11:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:11:34 → 2026-05-03 16:16:34
+[2026-05-03 16:11:34] [INFO] --- Cron End ---
+[2026-05-03 16:16:35] [INFO] --- Cron Start ---
+[2026-05-03 16:16:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:16:35 → 2026-05-03 16:21:35
+[2026-05-03 16:16:35] [INFO] --- Cron End ---
+[2026-05-03 16:21:38] [INFO] --- Cron Start ---
+[2026-05-03 16:21:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:21:38 → 2026-05-03 16:26:38
+[2026-05-03 16:21:38] [INFO] --- Cron End ---
+[2026-05-03 16:26:45] [INFO] --- Cron Start ---
+[2026-05-03 16:26:46] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:26:46 → 2026-05-03 16:31:46
+[2026-05-03 16:26:46] [INFO] --- Cron End ---
+[2026-05-03 16:31:35] [INFO] --- Cron Start ---
+[2026-05-03 16:31:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:31:35 → 2026-05-03 16:36:35
+[2026-05-03 16:31:35] [INFO] --- Cron End ---
+[2026-05-03 16:36:34] [INFO] --- Cron Start ---
+[2026-05-03 16:36:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:36:34 → 2026-05-03 16:41:34
+[2026-05-03 16:36:34] [INFO] --- Cron End ---
+[2026-05-03 16:41:36] [INFO] --- Cron Start ---
+[2026-05-03 16:41:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:41:36 → 2026-05-03 16:46:36
+[2026-05-03 16:41:36] [INFO] --- Cron End ---
+[2026-05-03 16:46:34] [INFO] --- Cron Start ---
+[2026-05-03 16:46:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:46:34 → 2026-05-03 16:51:34
+[2026-05-03 16:46:34] [INFO] --- Cron End ---
+[2026-05-03 16:51:34] [INFO] --- Cron Start ---
+[2026-05-03 16:51:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:51:34 → 2026-05-03 16:56:34
+[2026-05-03 16:51:34] [INFO] --- Cron End ---
+[2026-05-03 16:56:35] [INFO] --- Cron Start ---
+[2026-05-03 16:56:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 16:56:35 → 2026-05-03 17:01:35
+[2026-05-03 16:56:35] [INFO] --- Cron End ---
+[2026-05-03 17:01:44] [INFO] --- Cron Start ---
+[2026-05-03 17:01:44] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:01:44 → 2026-05-03 17:06:44
+[2026-05-03 17:01:45] [INFO] --- Cron End ---
+[2026-05-03 17:06:35] [INFO] --- Cron Start ---
+[2026-05-03 17:06:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:06:35 → 2026-05-03 17:11:35
+[2026-05-03 17:06:35] [INFO] --- Cron End ---
+[2026-05-03 17:11:35] [INFO] --- Cron Start ---
+[2026-05-03 17:11:35] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:11:35 → 2026-05-03 17:16:35
+[2026-05-03 17:11:35] [INFO] --- Cron End ---
+[2026-05-03 17:16:37] [INFO] --- Cron Start ---
+[2026-05-03 17:16:37] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:16:37 → 2026-05-03 17:21:37
+[2026-05-03 17:16:37] [INFO] --- Cron End ---
+[2026-05-03 17:21:43] [INFO] --- Cron Start ---
+[2026-05-03 17:21:43] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:21:43 → 2026-05-03 17:26:43
+[2026-05-03 17:21:43] [INFO] --- Cron End ---
+[2026-05-03 17:26:36] [INFO] --- Cron Start ---
+[2026-05-03 17:26:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:26:36 → 2026-05-03 17:31:36
+[2026-05-03 17:26:36] [INFO] --- Cron End ---
+[2026-05-03 17:31:36] [INFO] --- Cron Start ---
+[2026-05-03 17:31:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:31:36 → 2026-05-03 17:36:36
+[2026-05-03 17:31:36] [INFO] --- Cron End ---
+[2026-05-03 17:36:38] [INFO] --- Cron Start ---
+[2026-05-03 17:36:39] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:36:39 → 2026-05-03 17:41:39
+[2026-05-03 17:36:39] [INFO] --- Cron End ---
+[2026-05-03 17:41:36] [INFO] --- Cron Start ---
+[2026-05-03 17:41:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:41:36 → 2026-05-03 17:46:36
+[2026-05-03 17:41:36] [INFO] --- Cron End ---
+[2026-05-03 17:47:13] [INFO] --- Cron Start ---
+[2026-05-03 17:47:13] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:47:13 → 2026-05-03 17:52:13
+[2026-05-03 17:47:19] [INFO] --- Cron End ---
+[2026-05-03 17:51:36] [INFO] --- Cron Start ---
+[2026-05-03 17:51:36] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:51:36 → 2026-05-03 17:56:36
+[2026-05-03 17:51:36] [INFO] --- Cron End ---
+[2026-05-03 17:56:38] [INFO] --- Cron Start ---
+[2026-05-03 17:56:38] [INFO] Generated 0 new reminder(s) for window 2026-05-03 17:56:38 → 2026-05-03 18:01:38
+[2026-05-03 17:56:38] [INFO] --- Cron End ---
+[2026-05-03 18:01:34] [INFO] --- Cron Start ---
+[2026-05-03 18:01:34] [INFO] Generated 0 new reminder(s) for window 2026-05-03 18:01:34 → 2026-05-03 18:06:34
+[2026-05-03 18:01:34] [INFO] --- Cron End ---
+[2026-05-03 18:10:24] [INFO] --- Cron Start ---
+[2026-05-03 18:10:24] [INFO] Generated 0 new reminder(s) for window 2026-05-03 18:10:24 → 2026-05-03 18:15:24
+[2026-05-03 18:10:24] [INFO] --- Cron End ---
+[2026-05-04 06:06:39] [INFO] --- Cron Start ---
+[2026-05-04 06:06:40] [INFO] Generated 0 new reminder(s) for window 2026-05-04 06:06:40 → 2026-05-04 06:11:40
+[2026-05-04 06:06:40] [INFO] --- Cron End ---
+[2026-05-04 06:58:38] [INFO] --- Cron Start ---
+[2026-05-04 06:58:38] [INFO] Generated 0 new reminder(s) for window 2026-05-04 06:58:38 → 2026-05-04 07:03:38
+[2026-05-04 06:58:38] [INFO] --- Cron End ---
+[2026-05-04 09:43:59] [INFO] --- Cron Start ---
+[2026-05-04 09:43:59] [INFO] Generated 0 new reminder(s) for window 2026-05-04 09:43:59 → 2026-05-04 09:48:59
+[2026-05-04 09:43:59] [INFO] --- Cron End ---
+[2026-05-04 09:48:58] [INFO] --- Cron Start ---
+[2026-05-04 09:48:58] [INFO] Generated 0 new reminder(s) for window 2026-05-04 09:48:58 → 2026-05-04 09:53:58
+[2026-05-04 09:48:58] [INFO] --- Cron End ---
+[2026-05-04 09:53:58] [INFO] --- Cron Start ---
+[2026-05-04 09:53:58] [INFO] Generated 0 new reminder(s) for window 2026-05-04 09:53:58 → 2026-05-04 09:58:58
+[2026-05-04 09:53:58] [INFO] --- Cron End ---
+[2026-05-04 09:59:03] [INFO] --- Cron Start ---
+[2026-05-04 09:59:03] [INFO] Generated 0 new reminder(s) for window 2026-05-04 09:59:03 → 2026-05-04 10:04:03
+[2026-05-04 09:59:03] [INFO] --- Cron End ---
+[2026-05-04 10:04:00] [INFO] --- Cron Start ---
+[2026-05-04 10:04:00] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:04:00 → 2026-05-04 10:09:00
+[2026-05-04 10:04:00] [INFO] --- Cron End ---
+[2026-05-04 10:09:00] [INFO] --- Cron Start ---
+[2026-05-04 10:09:00] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:09:00 → 2026-05-04 10:14:00
+[2026-05-04 10:09:00] [INFO] --- Cron End ---
+[2026-05-04 10:14:01] [INFO] --- Cron Start ---
+[2026-05-04 10:14:01] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:14:01 → 2026-05-04 10:19:01
+[2026-05-04 10:14:02] [INFO] --- Cron End ---
+[2026-05-04 10:18:59] [INFO] --- Cron Start ---
+[2026-05-04 10:18:59] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:18:59 → 2026-05-04 10:23:59
+[2026-05-04 10:18:59] [INFO] --- Cron End ---
+[2026-05-04 10:24:02] [INFO] --- Cron Start ---
+[2026-05-04 10:24:02] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:24:02 → 2026-05-04 10:29:02
+[2026-05-04 10:24:02] [INFO] --- Cron End ---
+[2026-05-04 10:29:01] [INFO] --- Cron Start ---
+[2026-05-04 10:29:01] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:29:01 → 2026-05-04 10:34:01
+[2026-05-04 10:29:01] [INFO] --- Cron End ---
+[2026-05-04 10:34:07] [INFO] --- Cron Start ---
+[2026-05-04 10:34:07] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:34:07 → 2026-05-04 10:39:07
+[2026-05-04 10:34:07] [INFO] --- Cron End ---
+[2026-05-04 10:38:59] [INFO] --- Cron Start ---
+[2026-05-04 10:38:59] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:38:59 → 2026-05-04 10:43:59
+[2026-05-04 10:38:59] [INFO] --- Cron End ---
+[2026-05-04 10:44:02] [INFO] --- Cron Start ---
+[2026-05-04 10:44:02] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:44:02 → 2026-05-04 10:49:02
+[2026-05-04 10:44:02] [INFO] --- Cron End ---
+[2026-05-04 10:49:06] [INFO] --- Cron Start ---
+[2026-05-04 10:49:06] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:49:06 → 2026-05-04 10:54:06
+[2026-05-04 10:49:07] [INFO] --- Cron End ---
+[2026-05-04 10:54:01] [INFO] --- Cron Start ---
+[2026-05-04 10:54:01] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:54:01 → 2026-05-04 10:59:01
+[2026-05-04 10:54:01] [INFO] --- Cron End ---
+[2026-05-04 10:59:19] [INFO] --- Cron Start ---
+[2026-05-04 10:59:19] [INFO] Generated 0 new reminder(s) for window 2026-05-04 10:59:19 → 2026-05-04 11:04:19
+[2026-05-04 10:59:19] [INFO] --- Cron End ---
+[2026-05-04 11:04:06] [INFO] --- Cron Start ---
+[2026-05-04 11:04:06] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:04:06 → 2026-05-04 11:09:06
+[2026-05-04 11:04:06] [INFO] --- Cron End ---
+[2026-05-04 11:09:04] [INFO] --- Cron Start ---
+[2026-05-04 11:09:04] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:09:04 → 2026-05-04 11:14:04
+[2026-05-04 11:09:04] [INFO] --- Cron End ---
+[2026-05-04 11:13:59] [INFO] --- Cron Start ---
+[2026-05-04 11:13:59] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:13:59 → 2026-05-04 11:18:59
+[2026-05-04 11:13:59] [INFO] --- Cron End ---
+[2026-05-04 11:18:59] [INFO] --- Cron Start ---
+[2026-05-04 11:18:59] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:18:59 → 2026-05-04 11:23:59
+[2026-05-04 11:18:59] [INFO] --- Cron End ---
+[2026-05-04 11:24:01] [INFO] --- Cron Start ---
+[2026-05-04 11:24:01] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:24:01 → 2026-05-04 11:29:01
+[2026-05-04 11:24:01] [INFO] --- Cron End ---
+[2026-05-04 11:29:02] [INFO] --- Cron Start ---
+[2026-05-04 11:29:02] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:29:02 → 2026-05-04 11:34:02
+[2026-05-04 11:29:02] [INFO] --- Cron End ---
+[2026-05-04 11:33:59] [INFO] --- Cron Start ---
+[2026-05-04 11:33:59] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:33:59 → 2026-05-04 11:38:59
+[2026-05-04 11:33:59] [INFO] --- Cron End ---
+[2026-05-04 11:42:06] [INFO] --- Cron Start ---
+[2026-05-04 11:42:06] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:42:06 → 2026-05-04 11:47:06
+[2026-05-04 11:42:06] [INFO] --- Cron End ---
+[2026-05-04 11:44:00] [INFO] --- Cron Start ---
+[2026-05-04 11:44:00] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:44:00 → 2026-05-04 11:49:00
+[2026-05-04 11:44:00] [INFO] --- Cron End ---
+[2026-05-04 11:49:54] [INFO] --- Cron Start ---
+[2026-05-04 11:49:55] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:49:55 → 2026-05-04 11:54:55
+[2026-05-04 11:49:55] [INFO] --- Cron End ---
+[2026-05-04 11:54:00] [INFO] --- Cron Start ---
+[2026-05-04 11:54:00] [INFO] Generated 0 new reminder(s) for window 2026-05-04 11:54:00 → 2026-05-04 11:59:00
+[2026-05-04 11:54:00] [INFO] --- Cron End ---
+[2026-05-04 11:59:08] [INFO] --- Cron Start ---
+[2026-05-04 11:59:08] [INFO] Generated 7 new reminder(s) for window 2026-05-04 11:59:08 → 2026-05-04 12:04:08
+[2026-05-04 11:59:11] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 11:59:11] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 11:59:12] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 11:59:13] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 11:59:14] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 11:59:15] [ERROR] Failed via AT to : HTTP 0 — 
+[2026-05-04 11:59:15] [ERROR] Failed via AT to : HTTP 0 — 
+[2026-05-04 11:59:15] [INFO] --- Cron End ---
+[2026-05-04 12:04:02] [INFO] --- Cron Start ---
+[2026-05-04 12:04:02] [INFO] Generated 0 new reminder(s) for window 2026-05-04 12:04:02 → 2026-05-04 12:09:02
+[2026-05-04 12:04:03] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:04:03] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:04:04] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:04:05] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:04:06] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:04:06] [ERROR] Failed via AT to : HTTP 0 — 
+[2026-05-04 12:04:07] [ERROR] Failed via AT to : HTTP 0 — 
+[2026-05-04 12:04:07] [INFO] --- Cron End ---
+[2026-05-04 12:09:10] [INFO] --- Cron Start ---
+[2026-05-04 12:09:10] [INFO] Generated 0 new reminder(s) for window 2026-05-04 12:09:10 → 2026-05-04 12:14:10
+[2026-05-04 12:09:16] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:09:26] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:09:28] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:09:29] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:09:30] [ERROR] Failed via AT to 256700765387: HTTP 0 — 
+[2026-05-04 12:09:32] [ERROR] Failed via AT to : HTTP 0 — 
+[2026-05-04 12:09:33] [ERROR] Failed via AT to : HTTP 0 — 
+[2026-05-04 12:09:33] [INFO] --- Cron End ---
+[2026-05-04 12:14:08] [INFO] --- Cron Start ---
+[2026-05-04 12:14:08] [INFO] Generated 0 new reminder(s) for window 2026-05-04 12:14:08 → 2026-05-04 12:19:08
+[2026-05-04 12:14:08] [INFO] --- Cron End ---
+[2026-05-04 12:19:04] [INFO] --- Cron Start ---
+[2026-05-04 12:19:04] [INFO] Generated 0 new reminder(s) for window 2026-05-04 12:19:04 → 2026-05-04 12:24:04
+[2026-05-04 12:19:04] [INFO] --- Cron End ---
+[2026-05-04 12:24:07] [INFO] --- Cron Start ---
+[2026-05-04 12:24:07] [INFO] Generated 0 new reminder(s) for window 2026-05-04 12:24:07 → 2026-05-04 12:29:07
+[2026-05-04 12:24:07] [INFO] --- Cron End ---

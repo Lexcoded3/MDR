@@ -119,18 +119,36 @@ cd MDR
 ```
 
 ---
+## 📸 Screenshots
+
+| Admin | Clinician |
+|---|---|
+| ![Admin](screenshots/admin.png) | ![Clinician](screenshots/clinician.png) |
+
+| Doctor | Nurse |
+|---|---|
+| ![Doctor](screenshots/doctor.png) | ![Nurse](screenshots/nurse.png) |
+
+| Lab | Patient Portal |
+|---|---|
+| ![Lab](screenshots/lab.png) | ![Patient](screenshots/patient.png) |
+
+| Data Officer |
+|---|
+| ![Data Officer](screenshots/dataofficer.png) |
+---
 
 ## 💬 Contact & Support
 
 - **GitHub:** [@Lexcoded3](https://github.com/Lexcoded3)
-- **Email:** your@email.com
+- **Email:** samalexalexis3@email.com
 - **WhatsApp:** [Chat](https://wa.me/256777777861)
 
 ---
 
 ## ⚠️ License & Usage
 
-This project is the intellectual property of **DARK ALPHA / Lexcoded3**. Unauthorized redistribution or modification is strictly prohibited. Commercial inquiries welcome.
+This project is the intellectual property of **BYTESTORM / Lexcoded3**. Unauthorized redistribution or modification is strictly prohibited. Commercial inquiries welcome.
 
 ---
 

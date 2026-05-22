@@ -1,7 +1,7 @@
 # MDR — TB Patient Treatment Management System
 
 <p align="center">
-  <img src="assets/images/banner.jpg" alt="MDR Banner" width="600" height="300"/>
+  <img src="assets/images/banner.png" alt="MDR Banner" width="600" height="300"/>
 </p>
 
 <p align="center">
